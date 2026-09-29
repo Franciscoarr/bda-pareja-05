@@ -1,0 +1,31 @@
+id_cliente,razon_social,tipo,sector,familia_principal,pais,provincia,fecha_alta,canal_captacion,tamano
+CLI0001,Energía Cartaya S.L.U.,naviera,distribución,carga_general,España,Huelva,2018-08-22,web,grande
+CLI0002,Logística del Odiel S.A.,naviera,distribución,contenedores,España,,2018-10-17,feria,pequeña
+CLI0003,Maderas Almonte S.L.,agente,energía,granel_liquido,España,Cádiz,2020-09-21,web,mediana
+CLI0004,Cementos Ayamonte Coop.,cargador,automoción,ro_ro,España,Badajoz,2019-03-22,feria,pequeña
+CLI0005,Berries Andévalo S.L.,naviera,minero,granel_solido,España,Madrid,2020-08-01,web,grande
+CLI0006,Graneles Moguer Coop.,naviera,distribución,contenedores,España,Huelva,2023-01-13,feria,pequeña
+CLI0007,Automoción del Odiel S.A.,cargador,construcción,granel_solido,España,Cádiz,2018-02-06,LinkedIn,pequeña
+CLI0008,Química Palos S.L.,transitario,agroalimentario,fruta_refrigerada,España,Madrid,2018-09-13,comercial,pequeña
+CLI0009,Maderas del Condado Coop.,transitario,agroalimentario,contenedores,España,Córdoba,2022-01-20,comercial,mediana
+CLI0010,Conservas Costa Luz S.L.U.,naviera,agroalimentario,carga_general,España,Badajoz,2018-11-14,recomendación,grande
+CLI0011,Fertilizantes del Odiel Coop.,cargador,construcción,carga_general,España,Madrid,2019-07-07,web,mediana
+CLI0012,Agro del Odiel S.A.,cargador,energía,granel_liquido,Marruecos,,2019-10-14,LinkedIn,mediana
+CLI0013,Conservas Aljaraque S.A.,transitario,construcción,granel_solido,España,Madrid,2025-04-12,comercial,mediana
+CLI0014,Aceites Niebla S.L.U.,cargador,químico,contenedores,España,Córdoba,2023-02-26,recomendación,pequeña
+CLI0015,Graneles Cartaya Coop.,cargador,agroalimentario,carga_general,Francia,,2023-09-09,comercial,pequeña
+CLI0016,Cementos Lepe S.L.U.,agente,automoción,ro_ro,Marruecos,,2021-09-28,recomendación,grande
+CLI0017,Energía Niebla S.L.,agente,agroalimentario,carga_general,Reino Unido,,2023-02-17,web,mediana
+CLI0018,Minera Lepe Coop.,agente,minero,granel_solido,España,Sevilla,2019-09-20,feria,pequeña
+CLI0019,Cobre del Condado S.A.,naviera,minero,granel_solido,España,Madrid,2022-12-19,comercial,pequeña
+CLI0020,Berries Niebla Coop.,naviera,minero,granel_solido,Reino Unido,,2021-07-21,comercial,mediana
+CLI0021,Automoción Costa Luz Coop.,transitario,construcción,carga_general,España,Madrid,2020-08-06,recomendación,grande
+CLI0022,Automoción Lepe S.A.,naviera,minero,granel_solido,España,Sevilla,2018-07-29,comercial,pequeña
+CLI0023,Graneles del Odiel S.L.,agente,agroalimentario,fruta_refrigerada,Reino Unido,,2025-03-20,LinkedIn,pequeña
+CLI0024,Química Niebla S.L.U.,transitario,automoción,ro_ro,España,Cádiz,2019-07-24,feria,mediana
+CLI0025,AGRO ALMONTE S.L.U.,agente,químico,contenedores,España,Madrid,2021-01-25,web,pequeña
+CLI0026,Agro Onubense Coop.,naviera,energía,granel_liquido,España,Cádiz,2019-10-15,comercial,grande
+CLI0027,Aceites Costa Luz Coop.,cargador,energía,granel_liquido,Francia,,2024-11-28,comercial,mediana
+CLI0028,Maderas Lepe S.L.U.,agente,construcción,granel_solido,España,Madrid,2022-06-26,web,mediana
+CLI0029,Energía Moguer Coop.,agente,construcción,carga_general,España,Sevilla,2023-10-24,web,pequeña
+CLI0030,Conservas Moguer S.A.,agente,energía,granel_liquido,España,Cádiz,2025-04-27,feria,pequeña

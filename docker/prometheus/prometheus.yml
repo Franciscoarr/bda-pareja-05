@@ -1,0 +1,48 @@
+# Configuración de Prometheus del proyecto (Fase 4).
+# Recargar sin reiniciar tras editar:  curl -X POST http://localhost:9090/-/reload
+global:
+  scrape_interval: 15s        # cada cuánto se recogen métricas (coste vs. detalle: ver CE4.d)
+  evaluation_interval: 15s    # cada cuánto se evalúan las reglas de alerta
+
+rule_files:
+  - /etc/prometheus/alertas.yml
+
+scrape_configs:
+  - job_name: prometheus
+    static_configs:
+      - targets: ["localhost:9090"]
+
+  - job_name: hdfs
+    static_configs:
+      - targets: ["hdfs-exporter:9101"]
+
+  - job_name: nodo
+    static_configs:
+      - targets: ["node-exporter:9100"]
+
+  - job_name: spark-master
+    metrics_path: /metrics/master/prometheus
+    static_configs:
+      - targets: ["spark-master:8080"]
+
+  # Descubre TODOS los workers aunque se escalen (el DNS de Docker devuelve una IP por réplica)
+  - job_name: spark-workers
+    metrics_path: /metrics/prometheus
+    dns_sd_configs:
+      - names: ["spark-worker"]
+        type: A
+        port: 8081
+        refresh_interval: 30s
+
+  # Driver de la aplicación Spark abierta en Jupyter (solo existe mientras hay una SparkSession)
+  - job_name: spark-driver
+    metrics_path: /metrics/prometheus
+    static_configs:
+      - targets: ["jupyter:4040"]
+
+  - job_name: spark-executors
+    metrics_path: /metrics/executors/prometheus
+    static_configs:
+      - targets: ["jupyter:4040"]
+
+  # TAREA (fase 4): ¿qué otros objetivos tendría sentido vigilar? (Grafana, el propio exportador...)

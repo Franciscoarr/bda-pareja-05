@@ -1,0 +1,31 @@
+id_escala,imo,buque,id_naviera,id_muelle,tipo_trafico,operacion,mercancia,toneladas,teu,eta,ata,atd,origen,destino,practicaje,pasajeros
+ESC-2025-000040,9553086,Golden Bay,NAV029,M12,granel_liquido,carga,GNL,64824.7,0,2025-01-02 22:37:18,2025-01-02 23:38:39,2025-01-04 03:06:57,Algeciras,Dakar,S,0
+ESC-2025-000313,9311945,Blue Fortune III,NAV037,M10,pesca,mixta,Pescado fresco,36.4,0,2025-01-07 13:30:16,2025-01-07 13:37:40,2025-01-07 18:06:51,Hamburgo,Tánger Med,S,0
+ESC-2025-000303,9368390,Doña Spirit IV,NAV003,M01,contenedores,descarga,Contenedores,10771.6,821,2025-01-11 21:57:14,2025-01-11 23:51:45,2025-01-12 13:02:26,Hamburgo,Valencia,S,0
+ESC-2025-000143,9272931,Southern Pioneer,NAV020,M03,granel_solido,mixta,Fertilizantes,38366.3,0,2025-01-19 02:07:03,2025-01-19 15:47:45,2025-01-21 07:20:58,Génova,Dakar,S,0
+ESC-2025-000111,9503445,Ocean Mar,NAV034,M05,granel_liquido,mixta,GNL,63159.1,0,2025-01-20 08:28:21,2025-01-21 00:57:24,2025-01-22 15:41:22,Amberes,Lisboa,S,0
+ESC-2025-000257,9782431,Iberian Wave,NAV016,M06,granel_liquido,mixta,Biocombustible,40042.1,0,2025-01-22 22:49:44,2025-01-23 03:42:15,2025-01-24 08:01:35,Nueva York,Amberes,S,0
+ESC-2025-000047,9444091,Nordic Dawn,NAV005,M12,granel_liquido,descarga,Biocombustible,14027.9,0,2025-01-25 01:33:49,2025-01-25 02:08:19,2025-01-26 12:27:18,Tánger Med,Funchal,S,0
+ESC-2025-000122,9272931,Southern Pioneer,NAV020,M02,granel_solido,mixta,Pirita,20757.9,0,2025-01-30 00:02:47,2025-01-30 02:24:20,2025-01-31 20:03:06,Houston,Lisboa,S,0
+ESC-2025-000096,9445459,Costa Breeze,NAV018,M03,granel_solido,carga,Fertilizantes,25827.0,0,2025-02-01 07:11:13,2025-02-02 01:43:48,2025-02-04 01:03:00,Funchal,Rotterdam,S,0
+ESC-2025-000275,9511143,Cabo Wave II,NAV023,M06,granel_liquido,mixta,Crudo,71052.3,0,2025-02-01 19:04:22,2025-02-01 19:40:15,2025-02-02 16:01:24,Le Havre,Sines,S,0
+ESC-2025-000114,9075113,Delta Glory,NAV023,M06,granel_liquido,carga,Gasóleo,6726.2,0,2025-02-01 22:04:29,2025-02-02 11:15:03,2025-02-03 23:11:35,Génova,Dakar,S,0
+ESC-2025-000035,9686780,Tinto Carrier V,NAV039,M03,granel_solido,carga,Concentrado de cobre,14773.7,0,2025-02-04 00:08:55,2025-02-04 10:44:36,2025-02-06 01:37:41,Hamburgo,Algeciras,S,0
+ESC-2025-000050,9878369,Costa Horizon,NAV040,M08,fruta_refrigerada,descarga,Fruta tropical,9697.0,0,2025-02-05 10:00:00,2025-02-05 12:05:29,2025-02-06 19:46:55,Génova,Génova,S,0
+ESC-2025-000220,9164330,Tinto Trader III,NAV025,M01,contenedores,descarga,Contenedores,11710.7,859,2025-02-08 05:10:22,2025-02-08 08:18:58,2025-02-09 17:46:26,Abiyán,Le Havre,S,0
+ESC-2025-000142,9022130,Golden Spirit,NAV017,M08,fruta_refrigerada,mixta,Fruta tropical,13286.5,0,2025-02-09 21:00:00,2025-02-09 21:47:58,2025-02-11 08:07:15,Nueva York,Valencia,S,0
+ESC-2025-000006,9683910,Tinto Marina IV,NAV036,M08,fruta_refrigerada,descarga,Fresa y frutos rojos,7934.7,0,2025-02-10 06:00:00,2025-02-10 08:03:39,2025-02-10 14:00:55,Le Havre,Rotterdam,S,0
+ESC-2025-000070,9597721,Cabo Navigator,NAV038,M05,granel_liquido,carga,Biocombustible,34898.4,0,2025-02-16 18:37:21,2025-02-17 00:45:20,2025-02-18 03:18:28,Casablanca,Génova,S,0
+ESC-2025-000048,9025699,Iberian Trader I,NAV001,M04,granel_liquido,descarga,Gasóleo,52042.6,0,2025-02-16 19:53:43,2025-02-16 21:25:31,2025-02-17 15:52:24,Amberes,Algeciras,S,0
+ESC-2025-000197,9634581,Luz Dawn V,NAV017,M12,granel_liquido,descarga,GNL,7630.6,0,2025-02-23 09:06:37,2025-02-23 12:48:22,2025-02-24 15:56:13,Nueva York,Dakar,S,0
+ESC-2025-000057,9451410,Delta Bay,NAV002,M01,contenedores,descarga,Contenedores,9039.6,684,2025-03-03 01:02:14,2025-03-03 16:46:55,2025-03-04 10:40:03,Lisboa,Tánger Med,S,0
+ESC-2025-000041,9569700,Costa Star,NAV006,M01,contenedores,mixta,Contenedores,10850.7,886,2025-03-04 03:14:42,2025-03-04 11:39:01,2025-03-05 18:09:23,Algeciras,Las Palmas,S,0
+ESC-2025-000244,9560857,Tinto Breeze,NAV019,M06,granel_liquido,mixta,Ácido sulfúrico,16538.7,0,2025-03-08 00:43:42,2025-03-08 07:53:53,2025-03-10 00:34:00,Valencia,Funchal,S,0
+ESC-2025-000323,9089059,  COSTA VOYAGER I ,NAV035,M03,granel_solido,mixta,Clínker,37654.6,0,2025-03-08 19:00:32,2025-03-09 04:05:20,2025-03-09 21:28:19,Amberes,Houston,S,0
+ESC-2025-000305,9654488,Delta Sol,NAV035,M03,granel_solido,descarga,Clínker,54069.9,0,2025-03-14 20:56:52,2025-03-16 01:28:10,2025-03-17 16:21:18,Abiyán,Abiyán,S,0
+ESC-2025-000235,9732890,Tinto Marina,NAV033,M12,granel_liquido,mixta,Gasóleo,10998.2,0,2025-03-15 16:25:35,2025-03-15 17:51:54,2025-03-16 10:07:36,Lisboa,Houston,S,0
+ESC-2025-000186,9539145,Marisma Mar,NAV013,M08,fruta_refrigerada,carga,Fresa y frutos rojos,13197.4,0,2025-03-18 18:00:00,2025-03-18 21:30:03,2025-03-20 04:21:10,Dakar,Santos,S,0
+ESC-2025-000317,9058751,Río Voyager,NAV009,,granel_liquido,carga,Gasóleo,33492.9,0,2025-03-18 22:58:35,2025-03-19 01:26:11,2025-03-20 00:51:03,Abiyán,Dakar,S,0
+ESC-2025-000083,9948346,Tinto Sol V,NAV020,M09,pasajeros,carga,Pasajeros,0.0,0,2025-03-19 05:42:58,2025-03-19 05:47:23,2025-03-19 13:02:14,Ceuta,Hamburgo,S,3581
+ESC-2025-000021,9871880,Costa Sol,NAV028,M12,granel_liquido,carga,Gasóleo,32182.0,0,2025-03-19 11:28:17,2025-03-19 14:22:32,2025-03-20 12:44:14,Nueva York,Génova,S,0
+ESC-2025-000134,9093464,Iberian Sol,NAV004,M05,granel_liquido,descarga,Gasóleo,92657.2,0,2025-03-22 11:20:07,2025-03-22 18:55:45,2025-03-24 18:25:44,Le Havre,Rotterdam,S,0

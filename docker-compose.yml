@@ -1,0 +1,229 @@
+# =============================================================================
+#  Big Data Aplicado (05075) · IES La Marisma · Proyecto «Plataforma de datos del
+#  Puerto de Huelva». Entorno de laboratorio: NO usar tal cual en producción.
+#
+#  Perfiles:
+#    (sin perfil) -> núcleo: HDFS (1 NameNode + 3 DataNodes) + Spark (master + 2 workers) + Jupyter
+#    monitor      -> Prometheus + Grafana + node-exporter + exportador HDFS   (Fase 4)
+#    bi           -> PostgreSQL (almacén) + Apache Superset                    (Fase 5)
+#
+#  Arranque habitual (Windows, desde la carpeta del repositorio):
+#    .\bda.ps1 iniciar            # núcleo
+#    .\bda.ps1 iniciar monitor    # núcleo + monitorización
+#    .\bda.ps1 iniciar bi         # núcleo + BI
+#  Equivalente directo:  docker compose --profile monitor up -d
+#
+#  Todos los puertos se publican SOLO en 127.0.0.1 (no quedan expuestos a la red del aula).
+# =============================================================================
+name: bda-puerto
+
+x-hadoop: &hadoop
+  image: apache/hadoop:3.4.1
+  env_file: ./docker/hadoop.env
+  restart: unless-stopped
+  networks: [bda]
+
+x-spark: &spark
+  build:
+    context: ./docker/spark
+  image: bda-puerto/spark:3.5.8
+  user: root
+  restart: unless-stopped
+  networks: [bda]
+  environment:
+    HADOOP_USER_NAME: hadoop
+    SPARK_NO_DAEMONIZE: "true"
+    PYSPARK_PYTHON: python3
+    TZ: Europe/Madrid
+    PC_ANFITRION: ${COMPUTERNAME:-${HOSTNAME:-desconocido}}   # nombre del PC (para el sello de evidencias)
+  volumes:
+    - ./datos:/datos
+    - ./src:/workspace/src
+    - ./notebooks:/workspace/notebooks
+    - ./scripts:/workspace/scripts
+    - ./entregas:/workspace/entregas
+
+services:
+  # ------------------------------------------------------------------ HDFS
+  namenode:
+    <<: *hadoop
+    hostname: namenode
+    command: ["hdfs", "namenode"]
+    environment:
+      ENSURE_NAMENODE_DIR: /tmp/hdfs/name
+      ENSURE_NAMENODE_CLUSTERID: bda-puerto
+      HADOOP_HEAPSIZE_MAX: 768m
+    ports:
+      - "127.0.0.1:9870:9870"      # interfaz web del NameNode
+    volumes:
+      - ./datos:/datos
+      - ./scripts/hdfs:/scripts
+    mem_limit: 1536m               # margen para lanzar «hadoop jar» (MapReduce local) en este contenedor
+    healthcheck:
+      test: ["CMD-SHELL", "bash -c 'echo > /dev/tcp/localhost/8020' || exit 1"]
+      interval: 15s
+      timeout: 5s
+      retries: 20
+      start_period: 30s
+
+  datanode:
+    <<: *hadoop
+    command: ["hdfs", "datanode"]
+    environment:
+      HADOOP_HEAPSIZE_MAX: 512m
+    volumes:
+      - ./scripts/hdfs:/scripts:ro
+    deploy:
+      replicas: 3                  # ampliar con: docker compose up -d --scale datanode=4
+    mem_limit: 768m
+    depends_on: [namenode]        # los DataNodes reintentan solos hasta que el NameNode responde
+
+  # ------------------------------------------------------------------ Spark
+  spark-master:
+    <<: *spark
+    hostname: spark-master
+    command: ["/opt/spark/bin/spark-class", "org.apache.spark.deploy.master.Master",
+              "--host", "spark-master", "--port", "7077", "--webui-port", "8080"]
+    ports:
+      - "127.0.0.1:8080:8080"      # interfaz web del master
+    mem_limit: 1g
+
+  spark-worker:
+    <<: *spark
+    command: ["/opt/spark/bin/spark-class", "org.apache.spark.deploy.worker.Worker",
+              "spark://spark-master:7077", "--webui-port", "8081"]
+    environment:
+      HADOOP_USER_NAME: hadoop
+      SPARK_NO_DAEMONIZE: "true"
+      PYSPARK_PYTHON: python3
+      TZ: Europe/Madrid
+      SPARK_WORKER_CORES: "2"
+      SPARK_WORKER_MEMORY: 1536m
+    deploy:
+      replicas: 2                  # ampliar con: docker compose up -d --scale spark-worker=3
+    mem_limit: 2g
+    depends_on: [spark-master]
+
+  jupyter:
+    <<: *spark
+    hostname: jupyter
+    working_dir: /workspace
+    command: ["jupyter", "lab", "--ip=0.0.0.0", "--port=8888", "--no-browser", "--allow-root",
+              "--ServerApp.token=", "--ServerApp.password=", "--ServerApp.root_dir=/workspace"]
+    ports:
+      - "127.0.0.1:8888:8888"      # JupyterLab
+      - "127.0.0.1:4040:4040"      # interfaz web de la aplicación Spark (driver)
+      - "127.0.0.1:4041:4041"
+    mem_limit: 2560m
+    depends_on: [spark-master, namenode]
+
+  # ------------------------------------------------------------------ Monitorización (fase 4)
+  hdfs-exporter:
+    image: python:3.12-slim
+    profiles: [monitor]
+    command: ["python", "-u", "/app/hdfs_exporter.py"]
+    environment:
+      NAMENODE_URL: http://namenode:9870
+      PUERTO_EXPORTER: "9101"
+      RUTA_FRESCURA: /puerto/raw/ais
+    volumes:
+      - ./docker/exporter:/app:ro
+    networks: [bda]
+    restart: unless-stopped
+    mem_limit: 128m
+
+  node-exporter:
+    image: prom/node-exporter:v1.9.1
+    profiles: [monitor]
+    command: ["--path.procfs=/host/proc", "--path.sysfs=/host/sys",
+              "--collector.filesystem.mount-points-exclude=^/(sys|proc|dev|host|etc)($$|/)"]
+    volumes:
+      - /proc:/host/proc:ro
+      - /sys:/host/sys:ro
+    networks: [bda]
+    restart: unless-stopped
+    mem_limit: 128m
+
+  prometheus:
+    image: prom/prometheus:v3.5.0
+    profiles: [monitor]
+    command: ["--config.file=/etc/prometheus/prometheus.yml", "--storage.tsdb.retention.time=15d",
+              "--web.enable-lifecycle"]
+    ports:
+      - "127.0.0.1:9090:9090"
+    volumes:
+      - ./docker/prometheus:/etc/prometheus:ro
+      - prometheus-datos:/prometheus
+    networks: [bda]
+    restart: unless-stopped
+    mem_limit: 512m
+
+  grafana:
+    image: grafana/grafana:12.0.2
+    profiles: [monitor]
+    environment:
+      GF_SECURITY_ADMIN_USER: admin
+      GF_SECURITY_ADMIN_PASSWORD: bda2027
+      GF_USERS_DEFAULT_LANGUAGE: es-ES
+    ports:
+      - "127.0.0.1:3000:3000"
+    volumes:
+      - ./docker/grafana/provisioning:/etc/grafana/provisioning:ro
+      - ./docker/grafana/dashboards:/var/lib/grafana/dashboards:ro
+      - grafana-datos:/var/lib/grafana
+    networks: [bda]
+    restart: unless-stopped
+    mem_limit: 384m
+    depends_on: [prometheus]
+
+  # ------------------------------------------------------------------ BI (fase 5)
+  postgres:
+    image: postgres:16-alpine
+    profiles: [bi]
+    environment:
+      POSTGRES_DB: puerto_dw
+      POSTGRES_USER: bda
+      POSTGRES_PASSWORD: bda2027
+      TZ: Europe/Madrid
+    ports:
+      - "127.0.0.1:5432:5432"
+    volumes:
+      - ./docker/postgres/init:/docker-entrypoint-initdb.d:ro
+      - postgres-datos:/var/lib/postgresql/data
+    networks: [bda]
+    restart: unless-stopped
+    mem_limit: 512m
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U bda -d puerto_dw"]
+      interval: 10s
+      retries: 10
+
+  superset:
+    image: apache/superset:6.0.0-dev
+    profiles: [bi]
+    user: root
+    environment:
+      SUPERSET_CONFIG_PATH: /app/bda/superset_config.py
+      SUPERSET_SECRET_KEY: cambia-esta-clave-en-produccion-bda-2027
+    command: ["/bin/sh", "/app/bda/iniciar_superset.sh"]
+    ports:
+      - "127.0.0.1:8088:8088"
+    volumes:
+      - ./docker/superset:/app/bda:ro
+      - superset-datos:/app/superset_home
+    networks: [bda]
+    restart: unless-stopped
+    mem_limit: 1536m
+    depends_on:
+      postgres:
+        condition: service_healthy
+
+networks:
+  bda:
+    name: bda-red
+
+volumes:
+  prometheus-datos:
+  grafana-datos:
+  postgres-datos:
+  superset-datos:

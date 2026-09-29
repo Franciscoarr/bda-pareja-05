@@ -1,0 +1,67 @@
+# Reglas de alerta del proyecto (Fase 4). Se ven en http://localhost:9090/alerts
+# Estados: inactive -> pending (se cumple, esperando «for») -> firing (disparada)
+groups:
+  - name: hdfs
+    rules:
+      - alert: NameNodeSinRespuesta
+        expr: bda_namenode_up == 0 or absent(bda_namenode_up)
+        for: 30s
+        labels: {severidad: critica}
+        annotations:
+          resumen: "El NameNode no responde"
+          descripcion: "Sin NameNode no se puede leer ni escribir en HDFS."
+
+      - alert: DataNodeMuerto
+        expr: bda_hdfs_datanodes_muertos > 0
+        for: 30s
+        labels: {severidad: alta}
+        annotations:
+          resumen: "{{ $value }} DataNode(s) muertos"
+          descripcion: "HDFS está re-replicando bloques. Revisar el contenedor del DataNode."
+
+      - alert: BloquesCorruptos
+        expr: bda_hdfs_bloques_corruptos > 0
+        for: 0s
+        labels: {severidad: alta}
+        annotations:
+          resumen: "Hay {{ $value }} bloque(s) con réplicas corruptas"
+          descripcion: "La suma de verificación no coincide. Ejecutar hdfs fsck / -list-corruptfileblocks"
+
+      - alert: BloquesPerdidos
+        expr: bda_hdfs_bloques_perdidos > 0
+        for: 0s
+        labels: {severidad: critica}
+        annotations:
+          resumen: "PÉRDIDA DE DATOS: {{ $value }} bloque(s) sin réplicas"
+
+      - alert: HDFSCasiLleno
+        expr: bda_hdfs_capacidad_usada_bytes / bda_hdfs_capacidad_total_bytes > 0.80
+        for: 2m
+        labels: {severidad: media}
+        annotations:
+          resumen: "HDFS por encima del 80 % de capacidad"
+
+  - name: spark
+    rules:
+      - alert: WorkersSparkInsuficientes
+        expr: metrics_master_aliveWorkers_Value < 2
+        for: 30s
+        labels: {severidad: alta}
+        annotations:
+          resumen: "Solo quedan {{ $value }} worker(s) de Spark vivos"
+
+  # TAREA (fase 4): diseñar y probar al menos TRES alertas propias. Ideas:
+  #  - bloques infrarreplicados durante más de 5 min
+  #  - datos obsoletos: time() - bda_datos_ultima_modificacion_segundos > 3600
+  #  - NameNode lento: bda_namenode_respuesta_segundos > 1 durante 1 min
+  #  - memoria del nodo por debajo del 10 % (node-exporter)
+  #  - un objetivo de Prometheus caído: up == 0
+  # Plantilla (descomentad y adaptad):
+  # - name: propias
+  #   rules:
+  #     - alert: DatosObsoletos
+  #       expr: time() - bda_datos_ultima_modificacion_segundos > 3600
+  #       for: 1m
+  #       labels: {severidad: media}
+  #       annotations:
+  #         resumen: "No llegan datos nuevos a {{ $labels.ruta }} desde hace más de 1 h"
