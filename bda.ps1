@@ -1,4 +1,4 @@
-﻿<#
+<#
   bda.ps1 - Atajos del proyecto Big Data Aplicado (Puerto de Huelva) para Windows.
 
   Uso:  .\bda.ps1 <orden> [argumentos]
@@ -88,7 +88,7 @@ switch ($Orden.ToLower()) {
     }
     "datos" {
         $escala = if ($Resto) { $Resto[0] } else { "1" }
-        docker compose exec jupyter python /datos/generador/generar_datos.py --escala $escala
+        docker compose exec jupyter python3 /datos/generador/generar_datos.py --escala $escala
     }
     "ingesta" {
         docker compose exec namenode bash /scripts/ingesta.sh

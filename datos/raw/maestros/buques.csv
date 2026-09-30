@@ -1,0 +1,321 @@
+imo,mmsi,nombre,tipo,descripcion_tipo,gt,eslora_m,manga_m,calado_m,bandera,id_naviera
+9429601,352472006,Marisma Spirit IV,granel_solido,Granelero,25683,223.1,33.4,12.9,Panamá,NAV040
+9568330,209352760,Ocean Fortune,fruta_refrigerada,Frigorífico,12517,139.9,22.0,8.7,Chipre,NAV026
+9063160,249910263,Golden Trader,granel_liquido,Petrolero/Quimiquero,32710,177.7,27.9,10.1,Malta,NAV034
+9511143,352446016,Cabo Wave II,granel_liquido,Petrolero/Quimiquero,77862,168.0,22.4,10.3,Panamá,NAV023
+9544918,352490419,Luz Sol,granel_liquido,Petrolero/Quimiquero,31194,155.6,23.2,9.5,Panamá,NAV034
+9595216,215427821,Southern Breeze I,ro_ro,Ro-Ro,27860,187.0,30.7,11.8,Malta,NAV002
+9750165,371227061,Golden Navigator,granel_solido,Granelero,18594,199.7,28.2,12.5,Panamá,NAV014
+9173824,255819504,Doña Star,contenedores,Portacontenedores,26282,155.4,22.9,9.4,Portugal (Madeira),NAV004
+9362786,209878068,Golden Pioneer,ro_ro,Ro-Ro,12094,157.5,22.5,9.8,Chipre,NAV005
+9075113,255246651,Delta Glory,granel_liquido,Petrolero/Quimiquero,11011,153.4,20.5,10.3,Portugal (Madeira),NAV023
+9936135,209039857,Luz Dawn,granel_solido,Granelero,28244,175.3,24.3,10.9,Chipre,NAV008
+9467031,224771109,Cabo Star,carga_general,Carga general,10155,133.9,18.9,9.0,España,NAV008
+9026564,371359120,Tinto Mar,granel_liquido,Petrolero/Quimiquero,33879,188.5,29.9,10.8,Panamá,NAV040
+9782431,352030192,Iberian Wave,granel_liquido,Petrolero/Quimiquero,63675,190.9,27.5,11.4,Panamá,NAV016
+9867126,371716966,Aurora Wave I,ro_ro,Ro-Ro,28182,163.8,23.0,9.8,Panamá,NAV002
+9412546,636990094,Estrella Sol,granel_liquido,Petrolero/Quimiquero,19723,227.5,34.6,13.4,Liberia,NAV033
+9416159,224689824,Silver Marina,fruta_refrigerada,Frigorífico,5186,141.4,19.8,8.8,España,NAV015
+9471769,538588870,Ocean Pride,carga_general,Carga general,7518,107.2,14.8,8.0,Islas Marshall,NAV030
+9207479,244161249,Punta Fortune,contenedores,Portacontenedores,40775,283.0,47.5,15.5,Países Bajos,NAV034
+9716602,352144662,Iberian Horizon III,carga_general,Carga general,4650,139.9,18.3,9.0,Panamá,NAV038
+9677117,636533475,Iberian Pride,granel_solido,Granelero,18438,156.8,25.0,9.9,Liberia,NAV017
+9387047,371299451,Doña Breeze III,granel_solido,Granelero,26705,160.7,23.4,11.4,Panamá,NAV001
+9704348,636757051,Punta Glory,fruta_refrigerada,Frigorífico,13457,111.5,15.9,7.7,Liberia,NAV002
+9083366,215317350,Cabo Spirit,fruta_refrigerada,Frigorífico,8542,136.6,21.0,9.0,Malta,NAV007
+9952402,255399715,Punta Pioneer,pesca,Pesquero,737,46.6,7.3,5.6,Portugal (Madeira),NAV032
+9895927,249962265,Cabo Express,granel_liquido,Petrolero/Quimiquero,53235,121.6,19.6,8.0,Malta,NAV032
+9663582,371347825,Delta Express IV,ro_ro,Ro-Ro,20574,194.4,30.9,12.5,Panamá,NAV026
+9994606,215429601,Nordic Venture III,granel_solido,Granelero,42250,214.3,31.1,11.9,Malta,NAV037
+9419474,352882041,Ocean Glory I,carga_general,Carga general,10281,103.2,15.7,7.7,Panamá,NAV022
+9600396,244418854,Estrella Pioneer V,pesca,Pesquero,244,44.2,6.3,5.6,Países Bajos,NAV007
+9556313,215679713,Punta Bay,carga_general,Carga general,8414,93.0,13.6,7.1,Malta,NAV018
+9844588,209434763,Delta Wave,contenedores,Portacontenedores,60000,268.3,44.0,14.7,Chipre,NAV001
+9352119,215018652,Aurora Pioneer,granel_liquido,Petrolero/Quimiquero,35423,220.7,33.2,13.1,Malta,NAV024
+9125293,636346012,Nordic Bay,granel_liquido,Petrolero/Quimiquero,36757,242.0,33.5,14.0,Liberia,NAV020
+9732890,636113304,Tinto Marina,granel_liquido,Petrolero/Quimiquero,11709,147.9,21.7,9.3,Liberia,NAV033
+9416575,209502993,Punta Mar,pesca,Pesquero,722,42.1,6.0,5.2,Chipre,NAV032
+9260483,215286926,Punta Navigator IV,granel_liquido,Petrolero/Quimiquero,75147,227.9,33.3,12.6,Malta,NAV004
+9391385,249646352,Blue Marina,fruta_refrigerada,Frigorífico,6486,152.7,25.8,10.3,Malta,NAV032
+9228526,352993497,Silver Navigator V,granel_solido,Granelero,43558,192.2,31.7,11.9,Panamá,NAV039
+9665891,371132629,Atlantic Venture IV,pesca,Pesquero,1252,32.4,5.3,5.8,Panamá,NAV032
+9513804,371645122,Silver Navigator,granel_liquido,Petrolero/Quimiquero,78660,136.5,21.1,9.9,Panamá,NAV010
+9367487,352986681,Ocean Fortune I,carga_general,Carga general,5932,97.0,16.3,8.3,Panamá,NAV009
+9641912,371030418,Ocean Glory,granel_solido,Granelero,24851,167.7,24.2,10.8,Panamá,NAV030
+9190901,371042229,Tinto Wave,carga_general,Carga general,10714,90.4,12.1,7.8,Panamá,NAV017
+9118032,244695624,Atlantic Horizon,granel_solido,Granelero,29192,166.0,27.2,10.1,Países Bajos,NAV032
+9553086,244481701,Golden Bay,granel_liquido,Petrolero/Quimiquero,55604,208.7,35.2,12.6,Países Bajos,NAV029
+9276638,538121480,Estrella Dawn,pesca,Pesquero,361,37.4,5.9,5.9,Islas Marshall,NAV008
+9560857,224573469,Tinto Breeze,granel_liquido,Petrolero/Quimiquero,26989,200.7,33.4,12.6,España,NAV019
+9603192,352881295,Odiel Spirit,ro_ro,Ro-Ro,21605,169.3,22.9,11.4,Panamá,NAV036
+9829746,209050578,Marisma Venture,granel_liquido,Petrolero/Quimiquero,50762,215.7,36.4,11.8,Chipre,NAV030
+9361914,352039038,Cabo Marina,granel_solido,Granelero,17639,197.2,26.2,12.7,Panamá,NAV037
+9708813,224160540,Doña Venture,granel_liquido,Petrolero/Quimiquero,49735,128.8,17.3,8.3,España,NAV035
+9093220,209546112,Atlantic Trader,fruta_refrigerada,Frigorífico,6960,146.6,24.1,9.5,Chipre,NAV010
+9614294,538419470,Punta Express,granel_solido,Granelero,22812,191.1,31.3,11.5,Islas Marshall,NAV032
+9771195,249619238,Golden Venture I,granel_liquido,Petrolero/Quimiquero,58019,177.6,23.2,12.0,Malta,NAV025
+9386237,538902387,Cabo Venture,ro_ro,Ro-Ro,27083,158.8,25.5,11.1,Islas Marshall,NAV038
+9160126,209386386,Río Marina V,granel_liquido,Petrolero/Quimiquero,36416,192.1,29.2,11.6,Chipre,NAV008
+9320221,538053595,Tinto Pride,fruta_refrigerada,Frigorífico,9303,147.6,20.2,9.4,Islas Marshall,NAV024
+9151632,249576401,Golden Trader V,granel_liquido,Petrolero/Quimiquero,12662,159.8,26.4,11.3,Malta,NAV030
+9249049,249049298,Cabo Trader,fruta_refrigerada,Frigorífico,9772,114.6,17.9,8.1,Malta,NAV001
+9093464,371175737,Iberian Sol,granel_liquido,Petrolero/Quimiquero,79755,199.0,30.5,11.4,Panamá,NAV004
+9114634,538032971,Aurora Bay,contenedores,Portacontenedores,9991,206.2,31.4,12.1,Islas Marshall,NAV040
+9661716,215419252,Aurora Horizon,granel_liquido,Petrolero/Quimiquero,44559,247.7,38.7,13.8,Malta,NAV002
+9195274,215184241,Aurora Sol,granel_solido,Granelero,31219,194.0,26.3,12.4,Malta,NAV006
+9311945,255395565,Blue Fortune III,pesca,Pesquero,701,58.0,8.9,6.5,Portugal (Madeira),NAV037
+9448982,636749143,Estrella Spirit,granel_liquido,Petrolero/Quimiquero,68055,192.6,26.9,11.6,Liberia,NAV011
+9005211,209553079,Cabo Sol II,contenedores,Portacontenedores,29387,163.6,27.4,9.6,Chipre,NAV039
+9126132,538872359,Atlantic Venture,granel_liquido,Petrolero/Quimiquero,50567,172.1,22.8,10.7,Islas Marshall,NAV018
+9537977,249310843,Luz Voyager V,granel_solido,Granelero,43180,175.1,23.9,11.2,Malta,NAV002
+9217412,255241012,Costa Pride III,granel_liquido,Petrolero/Quimiquero,58483,128.0,18.4,9.2,Portugal (Madeira),NAV014
+9495507,352364521,Costa Bay,contenedores,Portacontenedores,38632,178.8,26.9,10.2,Panamá,NAV040
+9878369,209131109,Costa Horizon,fruta_refrigerada,Frigorífico,12288,159.3,24.8,10.7,Chipre,NAV040
+9736327,352877047,Iberian Dawn,granel_solido,Granelero,28566,168.1,26.5,11.5,Panamá,NAV033
+9459709,244551294,Río Marina,granel_liquido,Petrolero/Quimiquero,36908,111.9,16.9,8.3,Países Bajos,NAV024
+9229142,249647782,Marisma Spirit II,fruta_refrigerada,Frigorífico,11448,133.6,21.7,9.2,Malta,NAV013
+9153252,538416855,Estrella Carrier,granel_solido,Granelero,19034,186.6,26.8,11.5,Islas Marshall,NAV007
+9126766,255798766,Silver Voyager,granel_solido,Granelero,26198,202.7,30.1,11.9,Portugal (Madeira),NAV007
+9454072,538156655,Silver Dawn I,fruta_refrigerada,Frigorífico,12264,133.3,21.9,8.5,Islas Marshall,NAV036
+9554494,255463252,Tinto Wave IV,ro_ro,Ro-Ro,26314,143.7,21.4,10.2,Portugal (Madeira),NAV004
+9686780,538445236,Tinto Carrier V,granel_solido,Granelero,18570,178.0,24.3,11.8,Islas Marshall,NAV039
+9569700,255728615,Costa Star,contenedores,Portacontenedores,23839,198.4,31.8,11.8,Portugal (Madeira),NAV006
+9806017,209325871,Río Star,contenedores,Portacontenedores,24331,258.7,39.9,13.7,Chipre,NAV027
+9380283,244774329,Estrella Dawn IV,granel_liquido,Petrolero/Quimiquero,42157,139.1,23.3,10.0,Países Bajos,NAV029
+9408011,255914597,Cabo Voyager,granel_liquido,Petrolero/Quimiquero,40347,110.3,15.2,8.6,Portugal (Madeira),NAV021
+9556143,209484198,Southern Mar,carga_general,Carga general,9165,123.8,20.9,9.7,Chipre,NAV028
+9494670,215015150,Luz Fortune,ro_ro,Ro-Ro,21672,163.2,23.5,10.0,Malta,NAV031
+9929338,352566624,Tinto Venture I,granel_liquido,Petrolero/Quimiquero,79394,221.1,29.8,12.5,Panamá,NAV017
+9102112,538185120,Delta Spirit I,granel_solido,Granelero,16629,206.7,34.6,13.2,Islas Marshall,NAV035
+9809253,224303129,Río Bay,granel_solido,Granelero,19159,158.6,23.3,9.6,España,NAV005
+9944625,244038580,Blue Fortune,pasajeros,Crucero,57947,257.3,42.0,14.8,Países Bajos,NAV019
+9578270,538976005,Marisma Bay,granel_solido,Granelero,16673,183.2,24.9,11.6,Islas Marshall,NAV035
+9540780,249462517,Odiel Trader V,granel_liquido,Petrolero/Quimiquero,27258,219.8,31.1,13.4,Malta,NAV009
+9197586,538336981,Delta Venture,granel_solido,Granelero,20217,211.0,33.3,11.5,Islas Marshall,NAV007
+9097903,224384875,Odiel Carrier,granel_liquido,Petrolero/Quimiquero,20152,148.7,20.6,9.6,España,NAV006
+9095888,538486521,Estrella Pioneer,granel_solido,Granelero,33292,177.8,28.7,10.4,Islas Marshall,NAV010
+9770684,249380789,Delta Pioneer,granel_liquido,Petrolero/Quimiquero,33042,136.3,18.7,9.2,Malta,NAV005
+9376153,371051606,Río Wave,pasajeros,Crucero,112797,244.9,41.0,14.2,Panamá,NAV031
+9514585,255217923,Iberian Voyager IV,contenedores,Portacontenedores,29115,159.8,27.0,11.0,Portugal (Madeira),NAV005
+9089059,352793101,Costa Voyager I,granel_solido,Granelero,29254,157.2,21.7,9.7,Panamá,NAV035
+9122916,352523147,Silver Breeze III,granel_liquido,Petrolero/Quimiquero,76267,227.4,35.8,13.2,Panamá,NAV040
+9898084,249723476,Marisma Fortune,granel_liquido,Petrolero/Quimiquero,64223,118.7,18.5,9.5,Malta,NAV013
+9451410,244563399,Delta Bay,contenedores,Portacontenedores,59012,152.9,23.8,10.6,Países Bajos,NAV002
+9864447,249423034,Iberian Dawn II,granel_solido,Granelero,18941,207.1,32.3,12.0,Malta,NAV008
+9364722,538482513,Aurora Glory II,granel_liquido,Petrolero/Quimiquero,9173,127.0,20.3,9.1,Islas Marshall,NAV023
+9395252,636322699,Ocean Breeze,granel_liquido,Petrolero/Quimiquero,64465,150.1,24.4,10.1,Liberia,NAV013
+9796822,371774326,Odiel Navigator,granel_liquido,Petrolero/Quimiquero,72185,146.7,20.9,10.3,Panamá,NAV022
+9230438,538756852,Nordic Star IV,contenedores,Portacontenedores,59707,176.1,25.1,10.9,Islas Marshall,NAV030
+9826809,224289282,Delta Voyager,granel_liquido,Petrolero/Quimiquero,68868,157.1,25.5,10.8,España,NAV034
+9156204,224546912,Silver Glory III,granel_solido,Granelero,43365,160.4,26.9,11.0,España,NAV021
+9017721,352954601,Delta Dawn,pesca,Pesquero,548,44.8,6.3,5.8,Panamá,NAV030
+9521198,224188077,Blue Bay III,pesca,Pesquero,1000,58.7,9.1,6.2,España,NAV036
+9938640,224656717,Estrella Spirit I,carga_general,Carga general,8136,121.7,15.9,8.8,España,NAV002
+9260500,209163424,Southern Venture,contenedores,Portacontenedores,41292,172.1,23.9,10.6,Chipre,NAV003
+9625803,249727576,Costa Marina,granel_liquido,Petrolero/Quimiquero,77345,207.2,27.7,12.1,Malta,NAV026
+9465928,255084080,Southern Voyager,fruta_refrigerada,Frigorífico,5082,119.3,16.7,8.3,Portugal (Madeira),NAV003
+9004516,224324376,Costa Spirit,granel_liquido,Petrolero/Quimiquero,29844,164.6,26.4,11.5,España,NAV028
+9548768,249044303,Aurora Trader II,granel_solido,Granelero,31750,206.4,33.3,12.8,Malta,NAV029
+9227118,209745181,Silver Sol,granel_solido,Granelero,35283,163.6,25.2,10.6,Chipre,NAV013
+9482093,371916885,Southern Marina,granel_liquido,Petrolero/Quimiquero,23721,128.9,19.8,9.9,Panamá,NAV039
+9871880,244493671,Costa Sol,granel_liquido,Petrolero/Quimiquero,52670,154.0,23.4,9.8,Países Bajos,NAV028
+9543823,371153691,Aurora Mar IV,granel_solido,Granelero,44606,215.1,33.0,12.0,Panamá,NAV036
+9492907,352235075,Ocean Star II,carga_general,Carga general,9663,109.8,14.9,9.0,Panamá,NAV037
+9922976,352161839,Río Horizon II,granel_liquido,Petrolero/Quimiquero,28284,113.8,16.1,8.4,Panamá,NAV034
+9894832,209664503,Luz Spirit,granel_liquido,Petrolero/Quimiquero,55817,116.2,15.4,9.6,Chipre,NAV008
+9589475,224313139,Cabo Fortune,contenedores,Portacontenedores,17004,190.0,28.2,11.7,España,NAV007
+9503445,209382180,Ocean Mar,granel_liquido,Petrolero/Quimiquero,65289,212.1,29.2,12.8,Chipre,NAV034
+9043055,371140021,Ocean Venture,pesca,Pesquero,395,49.1,7.5,6.2,Panamá,NAV012
+9597721,224020849,Cabo Navigator,granel_liquido,Petrolero/Quimiquero,29817,127.9,19.4,10.1,España,NAV038
+9643192,352814220,Silver Breeze II,granel_solido,Granelero,27957,219.7,36.1,11.9,Panamá,NAV013
+9571296,538920334,Marisma Pioneer I,fruta_refrigerada,Frigorífico,12938,158.3,25.2,11.2,Islas Marshall,NAV031
+9353993,538246891,Southern Horizon,granel_liquido,Petrolero/Quimiquero,55960,120.2,17.3,8.5,Islas Marshall,NAV039
+9425693,352228298,Tinto Bay I,fruta_refrigerada,Frigorífico,6774,129.3,17.0,10.0,Panamá,NAV002
+9207558,224385751,Marisma Spirit III,granel_liquido,Petrolero/Quimiquero,23443,121.8,18.4,8.1,España,NAV017
+9023079,371139728,Cabo Breeze V,fruta_refrigerada,Frigorífico,8508,159.6,23.3,10.7,Panamá,NAV015
+9171371,636183475,Ocean Pioneer,granel_solido,Granelero,22081,206.1,33.4,13.0,Liberia,NAV025
+9060417,352747805,Estrella Venture,granel_liquido,Petrolero/Quimiquero,9564,160.3,26.7,10.0,Panamá,NAV025
+9092329,636643987,Tinto Star,granel_solido,Granelero,41498,221.8,34.4,12.9,Liberia,NAV017
+9361641,249092485,Luz Pride,ro_ro,Ro-Ro,17337,176.8,25.8,10.2,Malta,NAV024
+9594248,224598562,Costa Fortune,granel_solido,Granelero,28535,153.8,22.6,10.5,España,NAV015
+9634581,249114577,Luz Dawn V,granel_liquido,Petrolero/Quimiquero,9331,197.3,32.9,11.7,Malta,NAV017
+9058751,538481896,Río Voyager,granel_liquido,Petrolero/Quimiquero,31402,113.7,16.7,8.0,Islas Marshall,NAV009
+9500467,215083661,Odiel Marina,fruta_refrigerada,Frigorífico,11701,146.3,22.2,9.9,Malta,NAV034
+9236834,224608930,Aurora Fortune,granel_liquido,Petrolero/Quimiquero,77826,234.0,34.3,13.0,España,NAV040
+9678460,209823983,Southern Spirit V,granel_solido,Granelero,31376,182.6,23.9,10.7,Chipre,NAV033
+9022130,255658990,Golden Spirit,fruta_refrigerada,Frigorífico,11952,158.0,21.5,10.6,Portugal (Madeira),NAV017
+9962445,636289955,Punta Marina IV,granel_solido,Granelero,43008,171.3,22.7,10.8,Liberia,NAV029
+9148130,244732913,Odiel Star II,granel_liquido,Petrolero/Quimiquero,70199,236.4,35.0,12.8,Países Bajos,NAV019
+9995674,352314006,Marisma Breeze,granel_liquido,Petrolero/Quimiquero,65943,199.9,30.8,12.3,Panamá,NAV029
+9754288,224836379,Marisma Horizon V,granel_liquido,Petrolero/Quimiquero,35527,140.3,18.6,10.1,España,NAV026
+9218076,249875844,Doña Horizon,granel_solido,Granelero,17937,167.6,23.1,11.2,Malta,NAV012
+9878230,636669300,Delta Sol I,fruta_refrigerada,Frigorífico,11127,117.5,16.1,8.7,Liberia,NAV011
+9284635,352342098,Nordic Sol IV,granel_solido,Granelero,19929,184.4,29.8,11.8,Panamá,NAV017
+9990105,352430758,Blue Carrier V,granel_solido,Granelero,16071,216.2,33.1,13.6,Panamá,NAV035
+9351828,371339164,Iberian Spirit,granel_liquido,Petrolero/Quimiquero,23105,236.7,35.9,14.4,Panamá,NAV008
+9488736,244044570,Aurora Carrier,granel_liquido,Petrolero/Quimiquero,41795,217.2,28.5,13.1,Países Bajos,NAV013
+9842700,209441382,Cabo Carrier,pasajeros,Crucero,48450,319.5,41.7,15.5,Chipre,NAV037
+9465057,249365444,Costa Pride I,carga_general,Carga general,7052,120.9,18.8,9.4,Malta,NAV004
+9977737,224895092,Marisma Voyager,carga_general,Carga general,5691,137.4,22.5,9.6,España,NAV033
+9434072,538923929,Iberian Voyager,contenedores,Portacontenedores,13960,266.4,36.5,14.6,Islas Marshall,NAV015
+9742132,215895650,Odiel Fortune,granel_liquido,Petrolero/Quimiquero,20595,168.5,24.1,11.6,Malta,NAV010
+9180516,215190068,Marisma Glory,granel_liquido,Petrolero/Quimiquero,77891,148.1,25.1,9.8,Malta,NAV034
+9522908,255226982,Tinto Breeze III,fruta_refrigerada,Frigorífico,11082,134.7,19.5,9.2,Portugal (Madeira),NAV019
+9158094,352688476,Odiel Dawn,granel_liquido,Petrolero/Quimiquero,35401,144.5,21.5,10.7,Panamá,NAV006
+9603219,249465059,Aurora Spirit,pesca,Pesquero,990,31.8,5.3,5.4,Malta,NAV026
+9853620,352048112,Blue Express,carga_general,Carga general,9980,120.7,17.2,9.7,Panamá,NAV007
+9473468,352765604,Nordic Fortune,pesca,Pesquero,1025,59.6,8.0,5.5,Panamá,NAV029
+9148104,249152467,Marisma Pride,pesca,Pesquero,772,49.4,7.2,5.1,Malta,NAV010
+9884227,215933995,Silver Bay II,pesca,Pesquero,1480,41.3,6.4,6.0,Malta,NAV035
+9647021,371265981,Punta Pride,granel_liquido,Petrolero/Quimiquero,60770,218.3,29.4,12.9,Panamá,NAV035
+9539145,244012040,Marisma Mar,fruta_refrigerada,Frigorífico,11096,128.0,20.5,9.4,Países Bajos,NAV013
+9948346,249526625,Tinto Sol V,pasajeros,Crucero,84419,224.4,32.7,12.4,Malta,NAV020
+9341287,371941636,Luz Carrier,fruta_refrigerada,Frigorífico,8264,130.4,18.4,9.9,Panamá,NAV009
+9180633,209057288,Doña Carrier,granel_liquido,Petrolero/Quimiquero,34803,217.4,32.2,11.8,Chipre,NAV034
+9442732,352369775,Punta Venture,granel_liquido,Petrolero/Quimiquero,70261,192.2,25.2,12.6,Panamá,NAV025
+9116591,249914563,Nordic Marina IV,contenedores,Portacontenedores,27384,190.3,25.7,12.1,Malta,NAV014
+9272931,249665716,Southern Pioneer,granel_solido,Granelero,31855,186.2,27.2,11.4,Malta,NAV020
+9119517,636792595,Costa Venture II,granel_solido,Granelero,23860,179.6,30.4,12.1,Liberia,NAV036
+9954656,249283736,Punta Sol II,fruta_refrigerada,Frigorífico,9126,153.7,24.9,9.7,Malta,NAV003
+9405186,538870326,Tinto Star II,contenedores,Portacontenedores,17000,293.0,47.8,15.1,Islas Marshall,NAV037
+9132703,352729572,Cabo Breeze,granel_liquido,Petrolero/Quimiquero,51769,221.6,31.3,13.4,Panamá,NAV019
+9221920,249078236,Silver Bay,granel_liquido,Petrolero/Quimiquero,25857,160.9,27.0,9.5,Malta,NAV020
+9444792,371246732,Blue Pride V,contenedores,Portacontenedores,32496,283.8,45.4,15.5,Panamá,NAV012
+9472995,636565311,Blue Trader,granel_solido,Granelero,42577,212.0,30.6,12.6,Liberia,NAV028
+9826108,371233304,Marisma Carrier,granel_liquido,Petrolero/Quimiquero,14685,112.5,18.4,7.6,Panamá,NAV005
+9430090,249803146,Odiel Mar,granel_solido,Granelero,20851,206.2,28.5,11.8,Malta,NAV035
+9222869,636419402,Aurora Trader,contenedores,Portacontenedores,56036,194.9,30.1,10.9,Liberia,NAV038
+9350628,538000477,Aurora Express,contenedores,Portacontenedores,31314,275.2,42.3,15.5,Islas Marshall,NAV028
+9484522,215244723,Río Wave IV,granel_liquido,Petrolero/Quimiquero,51184,153.6,25.1,10.7,Malta,NAV019
+9418834,215650912,Costa Navigator V,granel_solido,Granelero,35801,165.2,25.5,9.9,Malta,NAV035
+9119555,538723969,Iberian Breeze,granel_liquido,Petrolero/Quimiquero,66087,139.6,21.8,9.5,Islas Marshall,NAV010
+9683910,244054893,Tinto Marina IV,fruta_refrigerada,Frigorífico,10373,146.7,19.7,10.2,Países Bajos,NAV036
+9312547,209845808,Punta Pride III,granel_liquido,Petrolero/Quimiquero,32202,221.6,33.0,13.2,Chipre,NAV030
+9745940,224563884,Punta Breeze I,granel_liquido,Petrolero/Quimiquero,58342,244.6,36.2,13.2,España,NAV027
+9296860,244665974,Delta Mar III,granel_liquido,Petrolero/Quimiquero,9471,147.3,19.9,9.5,Países Bajos,NAV007
+9220328,215996797,Odiel Carrier II,granel_solido,Granelero,18357,227.1,30.9,12.2,Malta,NAV022
+9202039,244022084,Luz Navigator,granel_solido,Granelero,26912,195.0,32.5,11.0,Países Bajos,NAV033
+9680669,538858542,Estrella Fortune,ro_ro,Ro-Ro,15165,175.3,27.9,12.0,Islas Marshall,NAV029
+9587568,215523112,Río Pioneer I,granel_solido,Granelero,15937,225.2,37.3,12.1,Malta,NAV026
+9164330,538407903,Tinto Trader III,contenedores,Portacontenedores,29573,297.5,45.5,15.5,Islas Marshall,NAV025
+9438004,352781547,Tinto Bay IV,granel_liquido,Petrolero/Quimiquero,68161,148.9,21.3,9.5,Panamá,NAV031
+9874595,538442561,Nordic Breeze,carga_general,Carga general,9376,124.3,17.1,9.9,Islas Marshall,NAV020
+9157973,371858733,Southern Bay,granel_liquido,Petrolero/Quimiquero,38797,139.6,20.8,9.0,Panamá,NAV004
+9488231,538189240,Atlantic Voyager,granel_solido,Granelero,18382,183.2,27.5,10.4,Islas Marshall,NAV033
+9550230,249368271,Nordic Carrier,carga_general,Carga general,4471,130.0,21.5,10.1,Malta,NAV011
+9576337,352789126,Silver Glory,granel_solido,Granelero,31332,160.3,23.5,9.5,Panamá,NAV006
+9243320,249625922,Golden Pride,granel_liquido,Petrolero/Quimiquero,68584,139.2,20.6,9.4,Malta,NAV028
+9633628,538073835,Blue Pride,contenedores,Portacontenedores,37132,183.6,28.0,10.5,Islas Marshall,NAV033
+9276406,249593533,Atlantic Dawn,carga_general,Carga general,10669,104.5,15.2,7.5,Malta,NAV020
+9149469,371325849,Río Spirit IV,granel_solido,Granelero,36128,217.8,36.4,11.8,Panamá,NAV036
+9046928,352226344,Río Navigator,granel_liquido,Petrolero/Quimiquero,72940,248.5,40.9,13.5,Panamá,NAV010
+9626546,244983658,Southern Fortune,granel_solido,Granelero,23022,192.8,28.3,11.1,Países Bajos,NAV008
+9783588,209511648,Iberian Star,carga_general,Carga general,4738,109.9,18.5,7.7,Chipre,NAV025
+9845685,224473933,Costa Fortune IV,carga_general,Carga general,11278,126.4,17.9,9.5,España,NAV037
+9822619,352728606,Ocean Bay,carga_general,Carga general,8282,96.4,13.2,8.1,Panamá,NAV002
+9574614,244854126,Aurora Mar V,contenedores,Portacontenedores,11866,183.4,25.9,11.4,Países Bajos,NAV029
+9444091,244539715,Nordic Dawn,granel_liquido,Petrolero/Quimiquero,21172,215.2,36.5,13.6,Países Bajos,NAV005
+9426178,636298309,Delta Marina II,pasajeros,Crucero,102715,266.7,38.6,13.7,Liberia,NAV023
+9957799,249966345,Río Sol,granel_liquido,Petrolero/Quimiquero,56748,173.2,26.0,10.9,Malta,NAV006
+9057915,636209279,Blue Spirit,granel_liquido,Petrolero/Quimiquero,25499,114.4,19.2,8.0,Liberia,NAV028
+9654488,255132567,Delta Sol,granel_solido,Granelero,44211,168.9,27.2,10.1,Portugal (Madeira),NAV035
+9525699,255554907,Marisma Express I,carga_general,Carga general,4565,103.1,16.6,8.9,Portugal (Madeira),NAV013
+9911094,244402145,Golden Carrier I,granel_solido,Granelero,44310,184.3,25.0,10.4,Países Bajos,NAV021
+9717199,636346810,Doña Express,pesca,Pesquero,243,42.3,6.8,4.8,Liberia,NAV017
+9465851,636262493,Luz Glory IV,granel_solido,Granelero,33785,157.2,24.6,10.4,Liberia,NAV008
+9442380,371789309,Odiel Horizon II,granel_liquido,Petrolero/Quimiquero,78781,144.2,19.5,9.0,Panamá,NAV013
+9142590,224049415,Doña Wave,granel_liquido,Petrolero/Quimiquero,30230,189.7,30.3,11.0,España,NAV019
+9415882,249765254,Southern Star II,granel_solido,Granelero,30467,162.2,21.2,11.1,Malta,NAV016
+9738167,209620443,Silver Venture,pasajeros,Crucero,92111,215.8,33.3,13.0,Chipre,NAV013
+9857640,255808168,Silver Navigator I,granel_liquido,Petrolero/Quimiquero,18794,219.0,32.1,12.7,Portugal (Madeira),NAV009
+9536624,249192347,Silver Star III,contenedores,Portacontenedores,15934,279.8,46.0,14.4,Malta,NAV012
+9371919,215365171,Southern Pride,carga_general,Carga general,7182,121.7,18.9,8.8,Malta,NAV034
+9287900,209912702,Delta Spirit,ro_ro,Ro-Ro,19891,153.2,26.0,9.7,Chipre,NAV040
+9088330,352502049,Southern Fortune I,granel_liquido,Petrolero/Quimiquero,79524,146.7,23.8,10.2,Panamá,NAV003
+9030022,215708552,Costa Fortune V,pesca,Pesquero,676,36.8,5.9,4.6,Malta,NAV007
+9323998,352419157,Odiel Mar I,fruta_refrigerada,Frigorífico,13639,123.7,16.1,8.4,Panamá,NAV003
+9392119,209496983,Odiel Voyager II,ro_ro,Ro-Ro,24878,141.4,19.7,9.4,Chipre,NAV025
+9025699,371897518,Iberian Trader I,granel_liquido,Petrolero/Quimiquero,65965,155.3,21.6,10.2,Panamá,NAV001
+9282584,249634248,Atlantic Pioneer,ro_ro,Ro-Ro,13203,140.8,20.9,10.4,Malta,NAV008
+9417816,209849213,Golden Wave,ro_ro,Ro-Ro,28858,157.0,25.9,9.4,Chipre,NAV024
+9039896,224723693,Blue Breeze,granel_liquido,Petrolero/Quimiquero,28327,169.8,27.1,9.9,España,NAV036
+9270531,244038198,Tinto Dawn,granel_liquido,Petrolero/Quimiquero,57865,230.2,37.0,12.4,Países Bajos,NAV012
+9912490,244697804,Río Pride,fruta_refrigerada,Frigorífico,12979,138.7,20.0,8.7,Países Bajos,NAV037
+9145425,224523060,Costa Express,granel_liquido,Petrolero/Quimiquero,69338,245.6,33.2,14.5,España,NAV032
+9042219,371259733,Marisma Trader,granel_solido,Granelero,16218,224.6,31.8,12.5,Panamá,NAV015
+9055943,249490915,Río Venture,granel_solido,Granelero,29586,165.7,25.5,10.2,Malta,NAV002
+9445459,209423714,Costa Breeze,granel_solido,Granelero,23909,225.8,36.0,12.1,Chipre,NAV018
+9311490,352872613,Río Trader IV,pesca,Pesquero,952,35.2,5.7,5.8,Panamá,NAV033
+9068720,215111484,Silver Venture II,pesca,Pesquero,1077,52.7,8.2,5.3,Malta,NAV030
+9189512,244346031,Silver Spirit,granel_solido,Granelero,17919,209.7,27.7,11.9,Países Bajos,NAV028
+9176761,538497733,Cabo Pride,contenedores,Portacontenedores,36811,223.2,36.3,13.4,Islas Marshall,NAV014
+9475662,244044035,Ocean Sol,granel_liquido,Petrolero/Quimiquero,35201,218.2,30.6,12.6,Países Bajos,NAV003
+9198757,209402650,Golden Breeze,pesca,Pesquero,354,33.2,5.0,5.0,Chipre,NAV032
+9154933,371538455,Iberian Star V,granel_liquido,Petrolero/Quimiquero,43125,178.5,25.9,11.4,Panamá,NAV009
+9764958,371647621,Silver Breeze,ro_ro,Ro-Ro,16425,195.4,26.8,12.6,Panamá,NAV040
+9131761,255465294,Southern Trader,ro_ro,Ro-Ro,29080,198.6,25.9,11.2,Portugal (Madeira),NAV032
+9211444,255283280,Ocean Carrier,fruta_refrigerada,Frigorífico,9303,146.2,19.6,9.4,Portugal (Madeira),NAV014
+9816622,215740872,Río Fortune,carga_general,Carga general,9259,106.9,15.0,8.6,Malta,NAV010
+9368223,371619744,Iberian Navigator,pesca,Pesquero,862,55.0,8.3,5.7,Panamá,NAV010
+9434199,371600286,Estrella Pride II,granel_liquido,Petrolero/Quimiquero,57804,211.4,35.2,12.9,Panamá,NAV021
+9954917,352589895,Luz Carrier II,ro_ro,Ro-Ro,18131,163.3,24.8,10.0,Panamá,NAV030
+9154567,249251064,Estrella Trader III,carga_general,Carga general,8765,118.3,16.9,8.5,Malta,NAV025
+9721994,255144051,Cabo Pioneer,fruta_refrigerada,Frigorífico,5501,156.8,24.5,9.4,Portugal (Madeira),NAV031
+9355458,209028457,Southern Spirit II,granel_liquido,Petrolero/Quimiquero,13641,175.6,28.2,10.5,Chipre,NAV010
+9116034,224589505,Atlantic Fortune III,contenedores,Portacontenedores,9810,189.6,27.1,12.1,España,NAV019
+9765768,244282738,Cabo Pride I,granel_liquido,Petrolero/Quimiquero,60112,173.4,27.9,11.5,Países Bajos,NAV007
+9355367,215238363,Delta Navigator I,contenedores,Portacontenedores,9482,164.4,23.4,9.7,Malta,NAV012
+9369382,224387326,Southern Sol,granel_liquido,Petrolero/Quimiquero,49782,148.3,22.4,9.2,España,NAV001
+9098672,255139292,Punta Dawn,granel_liquido,Petrolero/Quimiquero,49284,125.1,20.4,9.0,Portugal (Madeira),NAV035
+9621766,255583433,Delta Trader IV,contenedores,Portacontenedores,58154,254.4,37.3,14.3,Portugal (Madeira),NAV006
+9368390,371654950,Doña Spirit IV,contenedores,Portacontenedores,49395,153.7,23.0,9.8,Panamá,NAV003
+9787974,371846578,Marisma Star,granel_liquido,Petrolero/Quimiquero,60950,239.5,40.5,13.2,Panamá,NAV026
+9684976,255207355,Marisma Sol III,granel_liquido,Petrolero/Quimiquero,26547,174.6,29.6,10.4,Portugal (Madeira),NAV008
+9151711,352947113,Delta Trader,fruta_refrigerada,Frigorífico,13384,130.5,17.4,9.6,Panamá,NAV018
+9609550,352255254,Blue Navigator,ro_ro,Ro-Ro,27113,197.7,31.3,12.1,Panamá,NAV014
+9656321,538278642,Punta Trader,granel_liquido,Petrolero/Quimiquero,22908,196.4,27.4,12.6,Islas Marshall,NAV012
+9342255,538889052,Blue Fortune II,granel_solido,Granelero,36614,163.6,27.7,10.8,Islas Marshall,NAV034
+9507846,352136849,Iberian Express,carga_general,Carga general,10846,91.9,13.7,7.3,Panamá,NAV018
+9443229,224520006,Blue Dawn,granel_liquido,Petrolero/Quimiquero,37955,196.7,26.9,12.5,España,NAV010
+9655248,224795467,Southern Pioneer I,granel_liquido,Petrolero/Quimiquero,14323,228.9,33.0,13.9,España,NAV017
+9775373,371362369,Tinto Bay III,fruta_refrigerada,Frigorífico,5062,140.5,23.0,9.1,Panamá,NAV012
+9396517,255555773,Atlantic Voyager III,fruta_refrigerada,Frigorífico,12393,143.7,20.0,10.0,Portugal (Madeira),NAV035
+9093816,636472530,Costa Glory II,pesca,Pesquero,1187,45.5,6.7,5.8,Liberia,NAV006
+9133135,636735200,Punta Star III,granel_liquido,Petrolero/Quimiquero,32112,195.5,28.3,11.8,Liberia,NAV004
+9230268,255524831,Luz Express,contenedores,Portacontenedores,25915,274.3,45.6,15.5,Portugal (Madeira),NAV022
+9936604,244027070,Silver Star,fruta_refrigerada,Frigorífico,13774,111.5,18.8,9.1,Países Bajos,NAV010
+9411939,244340069,Golden Breeze III,ro_ro,Ro-Ro,10103,158.9,22.1,9.9,Países Bajos,NAV010
+9846483,255147931,Southern Horizon III,granel_solido,Granelero,34191,171.9,23.4,10.1,Portugal (Madeira),NAV019
+9924003,371974420,Odiel Mar II,granel_liquido,Petrolero/Quimiquero,26789,138.9,22.2,8.9,Panamá,NAV015
+9183415,636906184,Blue Horizon II,granel_solido,Granelero,31561,172.9,26.3,10.8,Liberia,NAV014
+9051777,538359018,Tinto Mar V,granel_liquido,Petrolero/Quimiquero,9653,216.9,31.2,13.0,Islas Marshall,NAV029
+9321201,538564505,Estrella Voyager,contenedores,Portacontenedores,49979,177.9,27.3,10.2,Islas Marshall,NAV020
+9406518,255749130,Tinto Voyager,granel_liquido,Petrolero/Quimiquero,35980,241.1,31.5,13.5,Portugal (Madeira),NAV016
+9118238,249880338,Doña Glory,granel_solido,Granelero,33120,171.1,27.7,10.4,Malta,NAV006
+9484132,352146214,Costa Pride IV,contenedores,Portacontenedores,36324,220.3,34.9,12.2,Panamá,NAV016
+9423853,209125614,Odiel Pioneer,granel_liquido,Petrolero/Quimiquero,23764,240.9,39.0,12.7,Chipre,NAV028
+9141546,352369142,Blue Express I,granel_liquido,Petrolero/Quimiquero,41861,197.1,28.0,11.5,Panamá,NAV037
+9520261,209920659,Nordic Express V,ro_ro,Ro-Ro,18302,152.2,23.4,10.1,Chipre,NAV017
+9434709,224008684,Silver Express,granel_liquido,Petrolero/Quimiquero,58152,131.5,22.0,10.2,España,NAV014
+9203722,215887756,Southern Voyager II,contenedores,Portacontenedores,12793,151.3,25.3,11.0,Malta,NAV034
+9947017,244584341,Aurora Breeze,granel_liquido,Petrolero/Quimiquero,67425,239.4,34.9,13.2,Países Bajos,NAV035
+9459424,215520556,Luz Fortune IV,ro_ro,Ro-Ro,14253,170.5,28.9,10.8,Malta,NAV028
+9159373,224178127,Delta Star,contenedores,Portacontenedores,57896,172.6,27.9,10.6,España,NAV005
+9397987,352443940,Tinto Express,contenedores,Portacontenedores,25688,184.9,31.3,10.8,Panamá,NAV012
+9770531,352896081,Aurora Spirit III,contenedores,Portacontenedores,16879,273.5,41.0,15.5,Panamá,NAV023
+9263394,224734354,Odiel Horizon,pesca,Pesquero,833,38.3,6.5,4.7,España,NAV034
+9997361,538780452,Río Voyager III,granel_solido,Granelero,36100,211.0,34.1,13.1,Islas Marshall,NAV013
+9531090,636897215,Iberian Marina,granel_solido,Granelero,18487,203.0,28.9,11.7,Liberia,NAV031
+9199622,636993127,Costa Pride,carga_general,Carga general,4878,91.7,15.2,8.2,Liberia,NAV033
+9460124,255024952,Estrella Bay,fruta_refrigerada,Frigorífico,13495,136.8,20.8,8.8,Portugal (Madeira),NAV021
+9194256,215528506,Costa Glory,ro_ro,Ro-Ro,16602,150.5,24.3,10.7,Malta,NAV015
+9086382,215792570,Estrella Star V,granel_liquido,Petrolero/Quimiquero,75994,225.4,34.0,12.2,Malta,NAV036
+9520895,538712452,Río Spirit,granel_liquido,Petrolero/Quimiquero,72293,245.3,36.7,13.0,Islas Marshall,NAV009
+9331919,209235898,Costa Wave,contenedores,Portacontenedores,21541,198.6,27.9,11.7,Chipre,NAV027
+9256200,249267996,Luz Breeze,granel_liquido,Petrolero/Quimiquero,49945,224.1,30.4,12.8,Malta,NAV009
+9435818,255926450,Estrella Breeze,contenedores,Portacontenedores,30051,174.5,28.9,11.3,Portugal (Madeira),NAV033
+9216286,371597668,Odiel Voyager,granel_solido,Granelero,25166,164.7,27.3,10.7,Panamá,NAV031
+9223904,224899994,Aurora Bay IV,granel_liquido,Petrolero/Quimiquero,29516,130.0,17.8,9.7,España,NAV003
+9105396,215313886,Río Dawn,carga_general,Carga general,10863,116.2,15.4,8.2,Malta,NAV006
+9476367,209899327,Nordic Venture,fruta_refrigerada,Frigorífico,12750,122.4,19.3,9.4,Chipre,NAV030
+9714111,352708081,Luz Pioneer,granel_liquido,Petrolero/Quimiquero,61528,182.4,25.1,11.0,Panamá,NAV003

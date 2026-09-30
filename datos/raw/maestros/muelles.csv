@@ -1,0 +1,13 @@
+id_muelle,nombre,tipo,calado_max_m,longitud_m,lat,lon,gruas
+M01,Muelle Sur,contenedores,14.0,750,37.1405,-6.934,GRUA-01|GRUA-02|GRUA-03|GRUA-04
+M02,Muelle Levante,granel_solido,13.0,600,37.153,-6.929,GRUA-05
+M03,Muelle de Minerales,granel_solido,12.0,450,37.1575,-6.9255,GRUA-06
+M04,Pantalán Petrolero,granel_liquido,16.0,400,37.132,-6.942,
+M05,Muelle de Inflamables,granel_liquido,12.5,350,37.136,-6.9395,
+M06,Terminal de GNL,granel_liquido,13.5,380,37.129,-6.947,
+M07,Muelle Ro-Ro,ro_ro,10.0,300,37.162,-6.923,
+M08,Muelle Frigorífico,fruta_refrigerada,11.0,320,37.148,-6.931,GRUA-02
+M09,Muelle de Cruceros,pasajeros,11.5,350,37.253,-6.953,
+M10,Muelle Pesquero,pesca,7.0,400,37.25,-6.948,
+M11,Muelle Multiusos Norte,carga_general,10.5,280,37.165,-6.9215,GRUA-05
+M12,Muelle Químico,granel_liquido,12.0,300,37.14,-6.937,

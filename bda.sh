@@ -33,7 +33,7 @@ case "$orden" in
     urls ;;
   parar) docker compose "${PERFILES[@]}" stop ;;
   estado) docker compose "${PERFILES[@]}" ps; urls ;;
-  datos) docker compose exec jupyter python /datos/generador/generar_datos.py --escala "${1:-1}" ;;
+  datos) docker compose exec jupyter python3 /datos/generador/generar_datos.py --escala "${1:-1}" ;;
   ingesta) docker compose exec namenode bash /scripts/ingesta.sh ;;
   verificar) docker compose exec namenode bash /scripts/verificar_manifiesto.sh ;;
   hdfs) docker compose exec namenode hdfs "$@" ;;

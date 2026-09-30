@@ -1,0 +1,450 @@
+{"id_incidencia": "INC00001", "fecha": "2024-04-04 18:31", "reportado_por": "mantenimiento", "texto": "Retraso en el atraque de ESC-2024-001934 por vibraciones anómalas; el buque queda en fondeo 18 h."}
+{"id_incidencia": "INC00002", "fecha": "2025-08-11 01:30", "reportado_por": "seguridad", "texto": "Retraso en el atraque de ESC-2025-001689 por huelga de estiba; el buque queda en fondeo 11 h."}
+{"id_incidencia": "INC00003", "fecha": "2024-04-25 09:01", "reportado_por": "seguridad", "texto": "Rotura de eslinga en Muelle Químico; sin heridos, operación reanudada tras 12 h."}
+{"id_incidencia": "INC00004", "fecha": "2024-10-08 11:57", "reportado_por": "seguridad", "texto": "Colas de camiones en la puerta principal por caída del sistema de citas (11 h)."}
+{"id_incidencia": "INC00005", "fecha": "2024-05-05 12:31", "reportado_por": "capitanía", "texto": "Rotura de eslinga en Muelle Pesquero; sin heridos, operación reanudada tras 8 h."}
+{"id_incidencia": "INC00006", "fecha": "2025-06-28 00:56", "reportado_por": "jefe de turno", "texto": "Contenedor reefer con alarma de temperatura en el patio B03; se reconecta en 3 h."}
+{"id_incidencia": "INC00007", "fecha": "2025-03-19 07:47", "reportado_por": "mantenimiento", "texto": "Colas de camiones en la puerta principal por caída del sistema de citas (10 h)."}
+{"id_incidencia": "INC00008", "fecha": "2025-01-15 15:23", "reportado_por": "jefe de turno", "texto": "Contenedor reefer con alarma de temperatura en el patio B22; se reconecta en 18 h."}
+{"id_incidencia": "INC00009", "fecha": "2024-02-12 22:37", "reportado_por": "seguridad", "texto": "Inspección fitosanitaria retrasa la salida de fruta de la escala ESC-2024-000731."}
+{"id_incidencia": "INC00010", "fecha": "2024-03-19 05:14", "reportado_por": "jefe de turno", "texto": "Contenedor reefer con alarma de temperatura en el patio B08; se reconecta en 5 h."}
+{"id_incidencia": "INC00011", "fecha": "2024-08-04 03:23", "reportado_por": "capitanía", "texto": "Fuga menor detectada en Terminal de GNL durante el trasiego; activado protocolo, sin daños."}
+{"id_incidencia": "INC00012", "fecha": "2024-04-01 20:01", "reportado_por": "capitanía", "texto": "Inspección fitosanitaria retrasa la salida de fruta de la escala ESC-2024-001677."}
+{"id_incidencia": "INC00013", "fecha": "2025-11-07 08:59", "reportado_por": "capitanía", "texto": "Contenedor reefer con alarma de temperatura en el patio B07; se reconecta en 13 h."}
+{"id_incidencia": "INC00014", "fecha": "2024-01-06 03:34", "reportado_por": "jefe de turno", "texto": "Retraso en el atraque de ESC-2024-001197 por avería eléctrica; el buque queda en fondeo 11 h."}
+{"id_incidencia": "INC00015", "fecha": "2024-12-08 19:19", "reportado_por": "seguridad", "texto": "Inspección fitosanitaria retrasa la salida de fruta de la escala ESC-2024-001696."}
+{"id_incidencia": "INC00016", "fecha": "2025-03-09 21:38", "reportado_por": "jefe de turno", "texto": "Contenedor reefer con alarma de temperatura en el patio B20; se reconecta en 14 h."}
+{"id_incidencia": "INC00017", "fecha": "2024-03-02 21:19", "reportado_por": "capitanía", "texto": "Fuga menor detectada en Terminal de GNL durante el trasiego; activado protocolo, sin daños."}
+{"id_incidencia": "INC00018", "fecha": "2024-05-26 20:12", "reportado_por": "capitanía", "texto": "Parada de la GRUA-02 durante 13 horas por mantenimiento correctivo. Afecta a la escala ESC-2024-001718."}
+{"id_incidencia": "INC00019", "fecha": "2025-02-19 12:00", "reportado_por": "capitanía", "texto": "Parada de la GRUA-06 durante 10 horas por viento fuerte. Afecta a la escala ESC-2025-001174."}
+{"id_incidencia": "INC00020", "fecha": "2024-02-13 11:25", "reportado_por": "mantenimiento", "texto": "Retraso en el atraque de ESC-2024-000690 por fallo del sistema informático; el buque queda en fondeo 8 h."}
+{"id_incidencia": "INC00021", "fecha": "2025-12-08 15:48", "reportado_por": "seguridad", "texto": "Colas de camiones en la puerta principal por caída del sistema de citas (2 h)."}
+{"id_incidencia": "INC00022", "fecha": "2025-12-09 15:09", "reportado_por": "seguridad", "texto": "Retraso en el atraque de ESC-2025-001416 por niebla; el buque queda en fondeo 7 h."}
+{"id_incidencia": "INC00023", "fecha": "2024-11-12 04:29", "reportado_por": "mantenimiento", "texto": "Rotura de eslinga en Muelle Frigorífico; sin heridos, operación reanudada tras 6 h."}
+{"id_incidencia": "INC00024", "fecha": "2024-12-17 20:58", "reportado_por": "seguridad", "texto": "Colas de camiones en la puerta principal por caída del sistema de citas (2 h)."}
+{"id_incidencia": "INC00025", "fecha": "2025-11-08 22:30", "reportado_por": "capitanía", "texto": "Rotura de eslinga en Muelle de Cruceros; sin heridos, operación reanudada tras 14 h."}
+{"id_incidencia": "INC00026", "fecha": "2025-12-10 10:18", "reportado_por": "mantenimiento", "texto": "Parada de la GRUA-05 durante 14 horas por mantenimiento correctivo. Afecta a la escala ESC-2025-001835."}
+{"id_incidencia": "INC00027", "fecha": "2024-11-09 06:53", "reportado_por": "jefe de turno", "texto": "Inspección fitosanitaria retrasa la salida de fruta de la escala ESC-2024-000335."}
+{"id_incidencia": "INC00028", "fecha": "2024-09-07 11:59", "reportado_por": "seguridad", "texto": "Contenedor reefer con alarma de temperatura en el patio B04; se reconecta en 6 h."}
+{"id_incidencia": "INC00029", "fecha": "2024-06-14 20:38", "reportado_por": "jefe de turno", "texto": "Contenedor reefer con alarma de temperatura en el patio B08; se reconecta en 14 h."}
+{"id_incidencia": "INC00030", "fecha": "2025-11-20 03:39", "reportado_por": "capitanía", "texto": "Inspección fitosanitaria retrasa la salida de fruta de la escala ESC-2025-000093."}
+{"id_incidencia": "INC00031", "fecha": "2025-05-18 01:52", "reportado_por": "seguridad", "texto": "Retraso en el atraque de ESC-2025-001722 por avería eléctrica; el buque queda en fondeo 14 h."}
+{"id_incidencia": "INC00032", "fecha": "2025-05-08 21:20", "reportado_por": "capitanía", "texto": "Rotura de eslinga en Muelle Levante; sin heridos, operación reanudada tras 5 h."}
+{"id_incidencia": "INC00033", "fecha": "2024-09-18 00:10", "reportado_por": "mantenimiento", "texto": "Contenedor reefer con alarma de temperatura en el patio B24; se reconecta en 5 h."}
+{"id_incidencia": "INC00034", "fecha": "2024-09-12 00:00", "reportado_por": "capitanía", "texto": "Fuga menor detectada en Muelle Sur durante el trasiego; activado protocolo, sin daños."}
+{"id_incidencia": "INC00035", "fecha": "2025-11-27 22:47", "reportado_por": "mantenimiento", "texto": "Parada de la GRUA-04 durante 17 horas por avería eléctrica. Afecta a la escala ESC-2025-000727."}
+{"id_incidencia": "INC00036", "fecha": "2025-04-29 03:12", "reportado_por": "capitanía", "texto": "Inspección fitosanitaria retrasa la salida de fruta de la escala ESC-2025-001192."}
+{"id_incidencia": "INC00037", "fecha": "2024-12-05 21:46", "reportado_por": "seguridad", "texto": "Contenedor reefer con alarma de temperatura en el patio B16; se reconecta en 10 h."}
+{"id_incidencia": "INC00038", "fecha": "2025-11-28 06:03", "reportado_por": "mantenimiento", "texto": "Rotura de eslinga en Muelle de Minerales; sin heridos, operación reanudada tras 8 h."}
+{"id_incidencia": "INC00039", "fecha": "2025-01-09 06:05", "reportado_por": "capitanía", "texto": "Rotura de eslinga en Muelle Ro-Ro; sin heridos, operación reanudada tras 12 h."}
+{"id_incidencia": "INC00040", "fecha": "2025-06-08 22:28", "reportado_por": "capitanía", "texto": "Colas de camiones en la puerta principal por caída del sistema de citas (13 h)."}
+{"id_incidencia": "INC00041", "fecha": "2025-11-04 19:55", "reportado_por": "seguridad", "texto": "Inspección fitosanitaria retrasa la salida de fruta de la escala ESC-2025-000617."}
+{"id_incidencia": "INC00042", "fecha": "2025-08-12 20:08", "reportado_por": "mantenimiento", "texto": "Fuga menor detectada en Muelle Frigorífico durante el trasiego; activado protocolo, sin daños."}
+{"id_incidencia": "INC00043", "fecha": "2025-12-01 11:16", "reportado_por": "seguridad", "texto": "Colas de camiones en la puerta principal por caída del sistema de citas (3 h)."}
+{"id_incidencia": "INC00044", "fecha": "2024-09-15 22:31", "reportado_por": "seguridad", "texto": "Rotura de eslinga en Pantalán Petrolero; sin heridos, operación reanudada tras 12 h."}
+{"id_incidencia": "INC00045", "fecha": "2025-09-05 07:51", "reportado_por": "seguridad", "texto": "Rotura de eslinga en Muelle de Cruceros; sin heridos, operación reanudada tras 15 h."}
+{"id_incidencia": "INC00046", "fecha": "2025-02-10 06:01", "reportado_por": "jefe de turno", "texto": "Contenedor reefer con alarma de temperatura en el patio B18; se reconecta en 1 h."}
+{"id_incidencia": "INC00047", "fecha": "2025-06-29 15:10", "reportado_por": "capitanía", "texto": "Inspección fitosanitaria retrasa la salida de fruta de la escala ESC-2025-000929."}
+{"id_incidencia": "INC00048", "fecha": "2024-05-21 18:38", "reportado_por": "seguridad", "texto": "Retraso en el atraque de ESC-2024-001483 por viento fuerte; el buque queda en fondeo 17 h."}
+{"id_incidencia": "INC00049", "fecha": "2024-04-09 02:14", "reportado_por": "seguridad", "texto": "Parada de la GRUA-06 durante 1 horas por niebla. Afecta a la escala ESC-2024-001531."}
+{"id_incidencia": "INC00050", "fecha": "2024-02-07 20:25", "reportado_por": "mantenimiento", "texto": "Contenedor reefer con alarma de temperatura en el patio B24; se reconecta en 1 h."}
+{"id_incidencia": "INC00051", "fecha": "2025-04-12 21:02", "reportado_por": "capitanía", "texto": "Parada de la GRUA-05 durante 8 horas por fallo del sistema informático. Afecta a la escala ESC-2025-000064."}
+{"id_incidencia": "INC00052", "fecha": "2025-03-09 09:38", "reportado_por": "seguridad", "texto": "Rotura de eslinga en Muelle Frigorífico; sin heridos, operación reanudada tras 8 h."}
+{"id_incidencia": "INC00053", "fecha": "2024-08-28 13:50", "reportado_por": "jefe de turno", "texto": "Parada de la GRUA-05 durante 10 horas por vibraciones anómalas. Afecta a la escala ESC-2024-001218."}
+{"id_incidencia": "INC00054", "fecha": "2024-09-17 06:27", "reportado_por": "capitanía", "texto": "Parada de la GRUA-02 durante 13 horas por huelga de estiba. Afecta a la escala ESC-2024-001898."}
+{"id_incidencia": "INC00055", "fecha": "2025-11-09 01:47", "reportado_por": "mantenimiento", "texto": "Contenedor reefer con alarma de temperatura en el patio B07; se reconecta en 12 h."}
+{"id_incidencia": "INC00056", "fecha": "2025-07-13 01:35", "reportado_por": "seguridad", "texto": "Retraso en el atraque de ESC-2025-000256 por niebla; el buque queda en fondeo 6 h."}
+{"id_incidencia": "INC00057", "fecha": "2025-12-18 18:50", "reportado_por": "seguridad", "texto": "Parada de la GRUA-02 durante 7 horas por niebla. Afecta a la escala ESC-2025-000634."}
+{"id_incidencia": "INC00058", "fecha": "2025-05-27 14:21", "reportado_por": "jefe de turno", "texto": "Inspección fitosanitaria retrasa la salida de fruta de la escala ESC-2025-000413."}
+{"id_incidencia": "INC00059", "fecha": "2025-03-26 13:31", "reportado_por": "mantenimiento", "texto": "Fuga menor detectada en Muelle Químico durante el trasiego; activado protocolo, sin daños."}
+{"id_incidencia": "INC00060", "fecha": "2025-12-28 04:03", "reportado_por": "mantenimiento", "texto": "Parada de la GRUA-01 durante 14 horas por niebla. Afecta a la escala ESC-2025-000110."}
+{"id_incidencia": "INC00061", "fecha": "2025-09-23 06:05", "reportado_por": "seguridad", "texto": "Retraso en el atraque de ESC-2025-001267 por vibraciones anómalas; el buque queda en fondeo 18 h."}
+{"id_incidencia": "INC00062", "fecha": "2025-04-16 14:01", "reportado_por": "seguridad", "texto": "Parada de la GRUA-02 durante 9 horas por mantenimiento correctivo. Afecta a la escala ESC-2025-000580."}
+{"id_incidencia": "INC00063", "fecha": "2024-11-17 07:11", "reportado_por": "seguridad", "texto": "Inspección fitosanitaria retrasa la salida de fruta de la escala ESC-2024-001480."}
+{"id_incidencia": "INC00064", "fecha": "2024-05-07 07:47", "reportado_por": "capitanía", "texto": "Colas de camiones en la puerta principal por caída del sistema de citas (14 h)."}
+{"id_incidencia": "INC00065", "fecha": "2025-06-04 23:11", "reportado_por": "jefe de turno", "texto": "Contenedor reefer con alarma de temperatura en el patio B05; se reconecta en 11 h."}
+{"id_incidencia": "INC00066", "fecha": "2024-12-03 12:09", "reportado_por": "mantenimiento", "texto": "Rotura de eslinga en Muelle Pesquero; sin heridos, operación reanudada tras 2 h."}
+{"id_incidencia": "INC00067", "fecha": "2024-10-29 19:22", "reportado_por": "mantenimiento", "texto": "Parada de la GRUA-06 durante 8 horas por niebla. Afecta a la escala ESC-2024-001760."}
+{"id_incidencia": "INC00068", "fecha": "2025-01-04 00:44", "reportado_por": "seguridad", "texto": "Contenedor reefer con alarma de temperatura en el patio B16; se reconecta en 15 h."}
+{"id_incidencia": "INC00069", "fecha": "2024-09-17 17:37", "reportado_por": "capitanía", "texto": "Colas de camiones en la puerta principal por caída del sistema de citas (5 h)."}
+{"id_incidencia": "INC00070", "fecha": "2024-08-25 18:36", "reportado_por": "jefe de turno", "texto": "Rotura de eslinga en Muelle Ro-Ro; sin heridos, operación reanudada tras 3 h."}
+{"id_incidencia": "INC00071", "fecha": "2025-03-05 05:12", "reportado_por": "capitanía", "texto": "Contenedor reefer con alarma de temperatura en el patio B19; se reconecta en 8 h."}
+{"id_incidencia": "INC00072", "fecha": "2024-06-08 20:29", "reportado_por": "seguridad", "texto": "Colas de camiones en la puerta principal por caída del sistema de citas (15 h)."}
+{"id_incidencia": "INC00073", "fecha": "2024-05-23 04:22", "reportado_por": "mantenimiento", "texto": "Retraso en el atraque de ESC-2024-000403 por vibraciones anómalas; el buque queda en fondeo 5 h."}
+{"id_incidencia": "INC00074", "fecha": "2025-11-06 11:23", "reportado_por": "jefe de turno", "texto": "Retraso en el atraque de ESC-2025-000462 por fallo del sistema informático; el buque queda en fondeo 15 h."}
+{"id_incidencia": "INC00075", "fecha": "2024-04-18 07:48", "reportado_por": "mantenimiento", "texto": "Inspección fitosanitaria retrasa la salida de fruta de la escala ESC-2024-001687."}
+{"id_incidencia": "INC00076", "fecha": "2024-04-21 23:22", "reportado_por": "capitanía", "texto": "Rotura de eslinga en Muelle Químico; sin heridos, operación reanudada tras 1 h."}
+{"id_incidencia": "INC00077", "fecha": "2024-03-08 14:55", "reportado_por": "capitanía", "texto": "Parada de la GRUA-04 durante 9 horas por vibraciones anómalas. Afecta a la escala ESC-2024-001841."}
+{"id_incidencia": "INC00078", "fecha": "2025-10-07 14:35", "reportado_por": "seguridad", "texto": "Fuga menor detectada en Muelle de Cruceros durante el trasiego; activado protocolo, sin daños."}
+{"id_incidencia": "INC00079", "fecha": "2024-09-03 19:22", "reportado_por": "jefe de turno", "texto": "Retraso en el atraque de ESC-2024-000586 por vibraciones anómalas; el buque queda en fondeo 11 h."}
+{"id_incidencia": "INC00080", "fecha": "2024-02-05 16:46", "reportado_por": "mantenimiento", "texto": "Fuga menor detectada en Muelle Ro-Ro durante el trasiego; activado protocolo, sin daños."}
+{"id_incidencia": "INC00081", "fecha": "2024-10-27 17:21", "reportado_por": "seguridad", "texto": "Parada de la GRUA-05 durante 6 horas por fallo del sistema informático. Afecta a la escala ESC-2024-001859."}
+{"id_incidencia": "INC00082", "fecha": "2025-12-30 13:35", "reportado_por": "capitanía", "texto": "Inspección fitosanitaria retrasa la salida de fruta de la escala ESC-2025-000196."}
+{"id_incidencia": "INC00083", "fecha": "2025-10-09 15:42", "reportado_por": "mantenimiento", "texto": "Parada de la GRUA-04 durante 8 horas por vibraciones anómalas. Afecta a la escala ESC-2025-001175."}
+{"id_incidencia": "INC00084", "fecha": "2024-07-01 00:57", "reportado_por": "capitanía", "texto": "Colas de camiones en la puerta principal por caída del sistema de citas (3 h)."}
+{"id_incidencia": "INC00085", "fecha": "2024-03-10 14:51", "reportado_por": "mantenimiento", "texto": "Colas de camiones en la puerta principal por caída del sistema de citas (18 h)."}
+{"id_incidencia": "INC00086", "fecha": "2025-07-20 06:23", "reportado_por": "jefe de turno", "texto": "Colas de camiones en la puerta principal por caída del sistema de citas (5 h)."}
+{"id_incidencia": "INC00087", "fecha": "2025-04-26 04:49", "reportado_por": "capitanía", "texto": "Colas de camiones en la puerta principal por caída del sistema de citas (2 h)."}
+{"id_incidencia": "INC00088", "fecha": "2024-03-03 18:16", "reportado_por": "capitanía", "texto": "Inspección fitosanitaria retrasa la salida de fruta de la escala ESC-2024-000137."}
+{"id_incidencia": "INC00089", "fecha": "2024-12-02 13:33", "reportado_por": "jefe de turno", "texto": "Inspección fitosanitaria retrasa la salida de fruta de la escala ESC-2024-001283."}
+{"id_incidencia": "INC00090", "fecha": "2024-12-30 16:45", "reportado_por": "capitanía", "texto": "Parada de la GRUA-06 durante 8 horas por niebla. Afecta a la escala ESC-2024-001779."}
+{"id_incidencia": "INC00091", "fecha": "2024-07-03 15:57", "reportado_por": "jefe de turno", "texto": "Colas de camiones en la puerta principal por caída del sistema de citas (4 h)."}
+{"id_incidencia": "INC00092", "fecha": "2024-02-22 20:02", "reportado_por": "seguridad", "texto": "Retraso en el atraque de ESC-2024-000217 por falta de personal; el buque queda en fondeo 15 h."}
+{"id_incidencia": "INC00093", "fecha": "2024-12-23 08:28", "reportado_por": "capitanía", "texto": "Contenedor reefer con alarma de temperatura en el patio B11; se reconecta en 8 h."}
+{"id_incidencia": "INC00094", "fecha": "2024-05-21 00:28", "reportado_por": "capitanía", "texto": "Fuga menor detectada en Muelle Sur durante el trasiego; activado protocolo, sin daños."}
+{"id_incidencia": "INC00095", "fecha": "2024-02-21 10:37", "reportado_por": "mantenimiento", "texto": "Contenedor reefer con alarma de temperatura en el patio B20; se reconecta en 9 h."}
+{"id_incidencia": "INC00096", "fecha": "2025-05-22 11:15", "reportado_por": "mantenimiento", "texto": "Retraso en el atraque de ESC-2025-000533 por vibraciones anómalas; el buque queda en fondeo 2 h."}
+{"id_incidencia": "INC00097", "fecha": "2024-03-02 10:19", "reportado_por": "jefe de turno", "texto": "Rotura de eslinga en Muelle de Minerales; sin heridos, operación reanudada tras 13 h."}
+{"id_incidencia": "INC00098", "fecha": "2025-05-27 18:35", "reportado_por": "mantenimiento", "texto": "Colas de camiones en la puerta principal por caída del sistema de citas (11 h)."}
+{"id_incidencia": "INC00099", "fecha": "2024-08-29 16:13", "reportado_por": "seguridad", "texto": "Contenedor reefer con alarma de temperatura en el patio B01; se reconecta en 4 h."}
+{"id_incidencia": "INC00100", "fecha": "2025-09-10 13:36", "reportado_por": "capitanía", "texto": "Retraso en el atraque de ESC-2025-000665 por niebla; el buque queda en fondeo 14 h."}
+{"id_incidencia": "INC00101", "fecha": "2024-04-30 16:29", "reportado_por": "seguridad", "texto": "Colas de camiones en la puerta principal por caída del sistema de citas (10 h)."}
+{"id_incidencia": "INC00102", "fecha": "2025-06-26 01:26", "reportado_por": "mantenimiento", "texto": "Fuga menor detectada en Muelle de Inflamables durante el trasiego; activado protocolo, sin daños."}
+{"id_incidencia": "INC00103", "fecha": "2024-06-22 15:46", "reportado_por": "mantenimiento", "texto": "Parada de la GRUA-04 durante 3 horas por vibraciones anómalas. Afecta a la escala ESC-2024-000292."}
+{"id_incidencia": "INC00104", "fecha": "2025-10-14 18:31", "reportado_por": "capitanía", "texto": "Rotura de eslinga en Muelle Sur; sin heridos, operación reanudada tras 13 h."}
+{"id_incidencia": "INC00105", "fecha": "2025-10-05 22:48", "reportado_por": "mantenimiento", "texto": "Rotura de eslinga en Muelle Sur; sin heridos, operación reanudada tras 17 h."}
+{"id_incidencia": "INC00106", "fecha": "2025-10-02 14:07", "reportado_por": "seguridad", "texto": "Parada de la GRUA-03 durante 14 horas por falta de personal. Afecta a la escala ESC-2025-001152."}
+{"id_incidencia": "INC00107", "fecha": "2024-03-28 20:50", "reportado_por": "capitanía", "texto": "Retraso en el atraque de ESC-2024-001013 por fallo del sistema informático; el buque queda en fondeo 17 h."}
+{"id_incidencia": "INC00108", "fecha": "2024-06-16 23:12", "reportado_por": "seguridad", "texto": "Inspección fitosanitaria retrasa la salida de fruta de la escala ESC-2024-001466."}
+{"id_incidencia": "INC00109", "fecha": "2025-02-27 07:11", "reportado_por": "jefe de turno", "texto": "Parada de la GRUA-04 durante 3 horas por vibraciones anómalas. Afecta a la escala ESC-2025-001336."}
+{"id_incidencia": "INC00110", "fecha": "2024-07-03 19:27", "reportado_por": "mantenimiento", "texto": "Fuga menor detectada en Muelle Pesquero durante el trasiego; activado protocolo, sin daños."}
+{"id_incidencia": "INC00111", "fecha": "2024-03-15 11:25", "reportado_por": "capitanía", "texto": "Retraso en el atraque de ESC-2024-000854 por mantenimiento correctivo; el buque queda en fondeo 13 h."}
+{"id_incidencia": "INC00112", "fecha": "2024-10-30 03:38", "reportado_por": "seguridad", "texto": "Colas de camiones en la puerta principal por caída del sistema de citas (1 h)."}
+{"id_incidencia": "INC00113", "fecha": "2024-05-15 19:40", "reportado_por": "capitanía", "texto": "Contenedor reefer con alarma de temperatura en el patio B10; se reconecta en 1 h."}
+{"id_incidencia": "INC00114", "fecha": "2024-10-04 00:59", "reportado_por": "seguridad", "texto": "Rotura de eslinga en Muelle Pesquero; sin heridos, operación reanudada tras 3 h."}
+{"id_incidencia": "INC00115", "fecha": "2025-08-28 01:59", "reportado_por": "mantenimiento", "texto": "Colas de camiones en la puerta principal por caída del sistema de citas (16 h)."}
+{"id_incidencia": "INC00116", "fecha": "2024-11-19 17:49", "reportado_por": "seguridad", "texto": "Retraso en el atraque de ESC-2024-000290 por avería eléctrica; el buque queda en fondeo 5 h."}
+{"id_incidencia": "INC00117", "fecha": "2024-09-02 21:02", "reportado_por": "seguridad", "texto": "Retraso en el atraque de ESC-2024-001690 por avería eléctrica; el buque queda en fondeo 1 h."}
+{"id_incidencia": "INC00118", "fecha": "2024-11-29 07:29", "reportado_por": "mantenimiento", "texto": "Contenedor reefer con alarma de temperatura en el patio B18; se reconecta en 2 h."}
+{"id_incidencia": "INC00119", "fecha": "2025-07-26 22:10", "reportado_por": "jefe de turno", "texto": "Colas de camiones en la puerta principal por caída del sistema de citas (4 h)."}
+{"id_incidencia": "INC00120", "fecha": "2024-07-18 11:12", "reportado_por": "capitanía", "texto": "Colas de camiones en la puerta principal por caída del sistema de citas (11 h)."}
+{"id_incidencia": "INC00121", "fecha": "2024-12-02 21:13", "reportado_por": "jefe de turno", "texto": "Fuga menor detectada en Muelle de Inflamables durante el trasiego; activado protocolo, sin daños."}
+{"id_incidencia": "INC00122", "fecha": "2025-12-13 10:32", "reportado_por": "jefe de turno", "texto": "Parada de la GRUA-03 durante 11 horas por mantenimiento correctivo. Afecta a la escala ESC-2025-001520."}
+{"id_incidencia": "INC00123", "fecha": "2025-05-16 20:30", "reportado_por": "mantenimiento", "texto": "Colas de camiones en la puerta principal por caída del sistema de citas (16 h)."}
+{"id_incidencia": "INC00124", "fecha": "2025-06-20 04:51", "reportado_por": "seguridad", "texto": "Colas de camiones en la puerta principal por caída del sistema de citas (2 h)."}
+{"id_incidencia": "INC00125", "fecha": "2025-08-30 04:51", "reportado_por": "capitanía", "texto": "Parada de la GRUA-01 durante 7 horas por vibraciones anómalas. Afecta a la escala ESC-2025-001289."}
+{"id_incidencia": "INC00126", "fecha": "2024-04-22 01:04", "reportado_por": "mantenimiento", "texto": "Contenedor reefer con alarma de temperatura en el patio B22; se reconecta en 15 h."}
+{"id_incidencia": "INC00127", "fecha": "2025-02-14 20:55", "reportado_por": "jefe de turno", "texto": "Colas de camiones en la puerta principal por caída del sistema de citas (7 h)."}
+{"id_incidencia": "INC00128", "fecha": "2025-06-03 18:10", "reportado_por": "seguridad", "texto": "Rotura de eslinga en Muelle de Minerales; sin heridos, operación reanudada tras 7 h."}
+{"id_incidencia": "INC00129", "fecha": "2024-08-23 10:50", "reportado_por": "mantenimiento", "texto": "Rotura de eslinga en Muelle Sur; sin heridos, operación reanudada tras 7 h."}
+{"id_incidencia": "INC00130", "fecha": "2024-05-24 13:14", "reportado_por": "mantenimiento", "texto": "Rotura de eslinga en Muelle de Cruceros; sin heridos, operación reanudada tras 17 h."}
+{"id_incidencia": "INC00131", "fecha": "2025-10-24 15:19", "reportado_por": "capitanía", "texto": "Fuga menor detectada en Pantalán Petrolero durante el trasiego; activado protocolo, sin daños."}
+{"id_incidencia": "INC00132", "fecha": "2024-12-22 17:49", "reportado_por": "mantenimiento", "texto": "Inspección fitosanitaria retrasa la salida de fruta de la escala ESC-2024-000328."}
+{"id_incidencia": "INC00133", "fecha": "2024-06-20 19:09", "reportado_por": "jefe de turno", "texto": "Retraso en el atraque de ESC-2024-001698 por avería eléctrica; el buque queda en fondeo 18 h."}
+{"id_incidencia": "INC00134", "fecha": "2024-12-09 17:25", "reportado_por": "capitanía", "texto": "Inspección fitosanitaria retrasa la salida de fruta de la escala ESC-2024-001298."}
+{"id_incidencia": "INC00135", "fecha": "2024-03-24 16:18", "reportado_por": "capitanía", "texto": "Retraso en el atraque de ESC-2024-000036 por avería eléctrica; el buque queda en fondeo 3 h."}
+{"id_incidencia": "INC00136", "fecha": "2024-08-14 14:34", "reportado_por": "seguridad", "texto": "Colas de camiones en la puerta principal por caída del sistema de citas (18 h)."}
+{"id_incidencia": "INC00137", "fecha": "2025-01-12 19:57", "reportado_por": "mantenimiento", "texto": "Rotura de eslinga en Muelle Químico; sin heridos, operación reanudada tras 1 h."}
+{"id_incidencia": "INC00138", "fecha": "2025-04-14 12:30", "reportado_por": "seguridad", "texto": "Colas de camiones en la puerta principal por caída del sistema de citas (9 h)."}
+{"id_incidencia": "INC00139", "fecha": "2025-11-28 08:03", "reportado_por": "capitanía", "texto": "Retraso en el atraque de ESC-2025-001599 por mantenimiento correctivo; el buque queda en fondeo 13 h."}
+{"id_incidencia": "INC00140", "fecha": "2024-09-12 07:47", "reportado_por": "seguridad", "texto": "Rotura de eslinga en Muelle Sur; sin heridos, operación reanudada tras 5 h."}
+{"id_incidencia": "INC00141", "fecha": "2025-01-04 03:19", "reportado_por": "mantenimiento", "texto": "Retraso en el atraque de ESC-2025-000841 por vibraciones anómalas; el buque queda en fondeo 18 h."}
+{"id_incidencia": "INC00142", "fecha": "2025-08-25 07:44", "reportado_por": "jefe de turno", "texto": "Fuga menor detectada en Muelle de Minerales durante el trasiego; activado protocolo, sin daños."}
+{"id_incidencia": "INC00143", "fecha": "2025-08-03 07:49", "reportado_por": "capitanía", "texto": "Contenedor reefer con alarma de temperatura en el patio B23; se reconecta en 6 h."}
+{"id_incidencia": "INC00144", "fecha": "2024-02-12 18:51", "reportado_por": "jefe de turno", "texto": "Rotura de eslinga en Muelle de Inflamables; sin heridos, operación reanudada tras 18 h."}
+{"id_incidencia": "INC00145", "fecha": "2025-01-04 09:44", "reportado_por": "capitanía", "texto": "Contenedor reefer con alarma de temperatura en el patio B06; se reconecta en 5 h."}
+{"id_incidencia": "INC00146", "fecha": "2025-08-06 01:03", "reportado_por": "capitanía", "texto": "Contenedor reefer con alarma de temperatura en el patio B02; se reconecta en 9 h."}
+{"id_incidencia": "INC00147", "fecha": "2024-09-14 16:56", "reportado_por": "seguridad", "texto": "Rotura de eslinga en Muelle de Cruceros; sin heridos, operación reanudada tras 18 h."}
+{"id_incidencia": "INC00148", "fecha": "2025-05-02 12:29", "reportado_por": "jefe de turno", "texto": "Retraso en el atraque de ESC-2025-001903 por avería eléctrica; el buque queda en fondeo 4 h."}
+{"id_incidencia": "INC00149", "fecha": "2025-12-30 08:30", "reportado_por": "jefe de turno", "texto": "Colas de camiones en la puerta principal por caída del sistema de citas (4 h)."}
+{"id_incidencia": "INC00150", "fecha": "2025-05-15 21:01", "reportado_por": "jefe de turno", "texto": "Fuga menor detectada en Muelle de Minerales durante el trasiego; activado protocolo, sin daños."}
+{"id_incidencia": "INC00151", "fecha": "2024-06-06 11:48", "reportado_por": "mantenimiento", "texto": "Inspección fitosanitaria retrasa la salida de fruta de la escala ESC-2024-001613."}
+{"id_incidencia": "INC00152", "fecha": "2025-06-28 19:56", "reportado_por": "jefe de turno", "texto": "Rotura de eslinga en Muelle Frigorífico; sin heridos, operación reanudada tras 8 h."}
+{"id_incidencia": "INC00153", "fecha": "2024-05-05 01:14", "reportado_por": "mantenimiento", "texto": "Retraso en el atraque de ESC-2024-000968 por fallo del sistema informático; el buque queda en fondeo 6 h."}
+{"id_incidencia": "INC00154", "fecha": "2024-04-22 06:04", "reportado_por": "mantenimiento", "texto": "Parada de la GRUA-02 durante 16 horas por vibraciones anómalas. Afecta a la escala ESC-2024-001456."}
+{"id_incidencia": "INC00155", "fecha": "2025-04-15 15:23", "reportado_por": "jefe de turno", "texto": "Parada de la GRUA-06 durante 6 horas por mantenimiento correctivo. Afecta a la escala ESC-2025-000990."}
+{"id_incidencia": "INC00156", "fecha": "2025-06-19 20:20", "reportado_por": "jefe de turno", "texto": "Parada de la GRUA-04 durante 1 horas por vibraciones anómalas. Afecta a la escala ESC-2025-000681."}
+{"id_incidencia": "INC00157", "fecha": "2025-03-15 21:53", "reportado_por": "jefe de turno", "texto": "Contenedor reefer con alarma de temperatura en el patio B08; se reconecta en 2 h."}
+{"id_incidencia": "INC00158", "fecha": "2025-05-16 23:30", "reportado_por": "jefe de turno", "texto": "Rotura de eslinga en Muelle Pesquero; sin heridos, operación reanudada tras 5 h."}
+{"id_incidencia": "INC00159", "fecha": "2024-11-17 00:11", "reportado_por": "jefe de turno", "texto": "Fuga menor detectada en Muelle Multiusos Norte durante el trasiego; activado protocolo, sin daños."}
+{"id_incidencia": "INC00160", "fecha": "2024-03-18 01:09", "reportado_por": "mantenimiento", "texto": "Fuga menor detectada en Muelle de Inflamables durante el trasiego; activado protocolo, sin daños."}
+{"id_incidencia": "INC00161", "fecha": "2024-05-23 13:49", "reportado_por": "jefe de turno", "texto": "Fuga menor detectada en Muelle Químico durante el trasiego; activado protocolo, sin daños."}
+{"id_incidencia": "INC00162", "fecha": "2024-05-04 02:21", "reportado_por": "seguridad", "texto": "Rotura de eslinga en Muelle de Minerales; sin heridos, operación reanudada tras 1 h."}
+{"id_incidencia": "INC00163", "fecha": "2024-03-25 16:43", "reportado_por": "capitanía", "texto": "Retraso en el atraque de ESC-2024-001342 por viento fuerte; el buque queda en fondeo 15 h."}
+{"id_incidencia": "INC00164", "fecha": "2025-03-08 12:53", "reportado_por": "capitanía", "texto": "Colas de camiones en la puerta principal por caída del sistema de citas (14 h)."}
+{"id_incidencia": "INC00165", "fecha": "2024-10-20 22:45", "reportado_por": "seguridad", "texto": "Rotura de eslinga en Muelle de Inflamables; sin heridos, operación reanudada tras 15 h."}
+{"id_incidencia": "INC00166", "fecha": "2024-10-30 08:53", "reportado_por": "jefe de turno", "texto": "Inspección fitosanitaria retrasa la salida de fruta de la escala ESC-2024-000049."}
+{"id_incidencia": "INC00167", "fecha": "2024-04-26 22:30", "reportado_por": "mantenimiento", "texto": "Inspección fitosanitaria retrasa la salida de fruta de la escala ESC-2024-001793."}
+{"id_incidencia": "INC00168", "fecha": "2024-08-02 18:54", "reportado_por": "jefe de turno", "texto": "Colas de camiones en la puerta principal por caída del sistema de citas (6 h)."}
+{"id_incidencia": "INC00169", "fecha": "2024-05-31 21:31", "reportado_por": "jefe de turno", "texto": "Parada de la GRUA-06 durante 7 horas por vibraciones anómalas. Afecta a la escala ESC-2024-000904."}
+{"id_incidencia": "INC00170", "fecha": "2025-08-19 12:55", "reportado_por": "capitanía", "texto": "Fuga menor detectada en Muelle Pesquero durante el trasiego; activado protocolo, sin daños."}
+{"id_incidencia": "INC00171", "fecha": "2025-03-23 16:05", "reportado_por": "seguridad", "texto": "Colas de camiones en la puerta principal por caída del sistema de citas (4 h)."}
+{"id_incidencia": "INC00172", "fecha": "2025-04-14 23:26", "reportado_por": "capitanía", "texto": "Parada de la GRUA-01 durante 18 horas por viento fuerte. Afecta a la escala ESC-2025-001534."}
+{"id_incidencia": "INC00173", "fecha": "2025-07-20 06:23", "reportado_por": "mantenimiento", "texto": "Contenedor reefer con alarma de temperatura en el patio B06; se reconecta en 4 h."}
+{"id_incidencia": "INC00174", "fecha": "2024-03-25 05:18", "reportado_por": "seguridad", "texto": "Fuga menor detectada en Muelle de Minerales durante el trasiego; activado protocolo, sin daños."}
+{"id_incidencia": "INC00175", "fecha": "2025-06-10 07:54", "reportado_por": "jefe de turno", "texto": "Colas de camiones en la puerta principal por caída del sistema de citas (3 h)."}
+{"id_incidencia": "INC00176", "fecha": "2024-08-03 12:42", "reportado_por": "capitanía", "texto": "Retraso en el atraque de ESC-2024-001831 por huelga de estiba; el buque queda en fondeo 4 h."}
+{"id_incidencia": "INC00177", "fecha": "2025-09-15 06:40", "reportado_por": "jefe de turno", "texto": "Contenedor reefer con alarma de temperatura en el patio B06; se reconecta en 18 h."}
+{"id_incidencia": "INC00178", "fecha": "2025-11-20 09:17", "reportado_por": "jefe de turno", "texto": "Retraso en el atraque de ESC-2025-000815 por mantenimiento correctivo; el buque queda en fondeo 15 h."}
+{"id_incidencia": "INC00179", "fecha": "2025-09-15 21:35", "reportado_por": "capitanía", "texto": "Inspección fitosanitaria retrasa la salida de fruta de la escala ESC-2025-001122."}
+{"id_incidencia": "INC00180", "fecha": "2024-10-05 06:41", "reportado_por": "seguridad", "texto": "Parada de la GRUA-03 durante 8 horas por falta de personal. Afecta a la escala ESC-2024-001787."}
+{"id_incidencia": "INC00181", "fecha": "2025-10-02 08:10", "reportado_por": "mantenimiento", "texto": "Colas de camiones en la puerta principal por caída del sistema de citas (15 h)."}
+{"id_incidencia": "INC00182", "fecha": "2024-08-03 15:12", "reportado_por": "seguridad", "texto": "Colas de camiones en la puerta principal por caída del sistema de citas (14 h)."}
+{"id_incidencia": "INC00183", "fecha": "2024-03-11 03:07", "reportado_por": "capitanía", "texto": "Rotura de eslinga en Muelle Químico; sin heridos, operación reanudada tras 14 h."}
+{"id_incidencia": "INC00184", "fecha": "2025-06-14 16:12", "reportado_por": "seguridad", "texto": "Inspección fitosanitaria retrasa la salida de fruta de la escala ESC-2025-000839."}
+{"id_incidencia": "INC00185", "fecha": "2025-04-05 04:37", "reportado_por": "jefe de turno", "texto": "Parada de la GRUA-04 durante 16 horas por avería eléctrica. Afecta a la escala ESC-2025-001578."}
+{"id_incidencia": "INC00186", "fecha": "2024-08-06 18:29", "reportado_por": "seguridad", "texto": "Inspección fitosanitaria retrasa la salida de fruta de la escala ESC-2024-000360."}
+{"id_incidencia": "INC00187", "fecha": "2024-07-18 17:12", "reportado_por": "jefe de turno", "texto": "Rotura de eslinga en Muelle Ro-Ro; sin heridos, operación reanudada tras 4 h."}
+{"id_incidencia": "INC00188", "fecha": "2024-08-10 15:47", "reportado_por": "jefe de turno", "texto": "Inspección fitosanitaria retrasa la salida de fruta de la escala ESC-2024-000484."}
+{"id_incidencia": "INC00189", "fecha": "2024-06-01 06:46", "reportado_por": "jefe de turno", "texto": "Inspección fitosanitaria retrasa la salida de fruta de la escala ESC-2024-000689."}
+{"id_incidencia": "INC00190", "fecha": "2024-07-31 12:03", "reportado_por": "jefe de turno", "texto": "Retraso en el atraque de ESC-2024-001014 por huelga de estiba; el buque queda en fondeo 11 h."}
+{"id_incidencia": "INC00191", "fecha": "2024-04-22 18:32", "reportado_por": "seguridad", "texto": "Inspección fitosanitaria retrasa la salida de fruta de la escala ESC-2024-000933."}
+{"id_incidencia": "INC00192", "fecha": "2024-10-04 04:55", "reportado_por": "jefe de turno", "texto": "Parada de la GRUA-05 durante 2 horas por vibraciones anómalas. Afecta a la escala ESC-2024-001326."}
+{"id_incidencia": "INC00193", "fecha": "2025-06-20 14:06", "reportado_por": "jefe de turno", "texto": "Parada de la GRUA-01 durante 16 horas por mantenimiento correctivo. Afecta a la escala ESC-2025-000084."}
+{"id_incidencia": "INC00194", "fecha": "2024-07-18 05:43", "reportado_por": "mantenimiento", "texto": "Parada de la GRUA-04 durante 9 horas por viento fuerte. Afecta a la escala ESC-2024-001869."}
+{"id_incidencia": "INC00195", "fecha": "2024-04-25 20:01", "reportado_por": "seguridad", "texto": "Inspección fitosanitaria retrasa la salida de fruta de la escala ESC-2024-000921."}
+{"id_incidencia": "INC00196", "fecha": "2025-04-02 17:51", "reportado_por": "jefe de turno", "texto": "Parada de la GRUA-06 durante 16 horas por huelga de estiba. Afecta a la escala ESC-2025-000498."}
+{"id_incidencia": "INC00197", "fecha": "2024-01-23 23:50", "reportado_por": "capitanía", "texto": "Inspección fitosanitaria retrasa la salida de fruta de la escala ESC-2024-000611."}
+{"id_incidencia": "INC00198", "fecha": "2025-05-07 09:19", "reportado_por": "capitanía", "texto": "Inspección fitosanitaria retrasa la salida de fruta de la escala ESC-2025-001643."}
+{"id_incidencia": "INC00199", "fecha": "2024-10-29 22:22", "reportado_por": "mantenimiento", "texto": "Rotura de eslinga en Muelle de Inflamables; sin heridos, operación reanudada tras 1 h."}
+{"id_incidencia": "INC00200", "fecha": "2024-11-14 04:19", "reportado_por": "jefe de turno", "texto": "Fuga menor detectada en Terminal de GNL durante el trasiego; activado protocolo, sin daños."}
+{"id_incidencia": "INC00201", "fecha": "2025-04-26 02:46", "reportado_por": "seguridad", "texto": "Inspección fitosanitaria retrasa la salida de fruta de la escala ESC-2025-001009."}
+{"id_incidencia": "INC00202", "fecha": "2025-01-19 16:47", "reportado_por": "seguridad", "texto": "Rotura de eslinga en Muelle Multiusos Norte; sin heridos, operación reanudada tras 14 h."}
+{"id_incidencia": "INC00203", "fecha": "2024-06-22 16:36", "reportado_por": "jefe de turno", "texto": "Rotura de eslinga en Muelle Químico; sin heridos, operación reanudada tras 10 h."}
+{"id_incidencia": "INC00204", "fecha": "2025-04-10 07:06", "reportado_por": "mantenimiento", "texto": "Parada de la GRUA-02 durante 8 horas por avería eléctrica. Afecta a la escala ESC-2025-001153."}
+{"id_incidencia": "INC00205", "fecha": "2024-06-14 14:19", "reportado_por": "seguridad", "texto": "Rotura de eslinga en Terminal de GNL; sin heridos, operación reanudada tras 2 h."}
+{"id_incidencia": "INC00206", "fecha": "2024-05-15 14:18", "reportado_por": "capitanía", "texto": "Parada de la GRUA-06 durante 10 horas por niebla. Afecta a la escala ESC-2024-000274."}
+{"id_incidencia": "INC00207", "fecha": "2025-05-08 03:11", "reportado_por": "jefe de turno", "texto": "Retraso en el atraque de ESC-2025-001304 por niebla; el buque queda en fondeo 7 h."}
+{"id_incidencia": "INC00208", "fecha": "2025-08-04 01:44", "reportado_por": "capitanía", "texto": "Contenedor reefer con alarma de temperatura en el patio B11; se reconecta en 16 h."}
+{"id_incidencia": "INC00209", "fecha": "2025-06-08 23:28", "reportado_por": "jefe de turno", "texto": "Parada de la GRUA-01 durante 12 horas por viento fuerte. Afecta a la escala ESC-2025-000097."}
+{"id_incidencia": "INC00210", "fecha": "2025-05-21 01:57", "reportado_por": "seguridad", "texto": "Fuga menor detectada en Muelle Sur durante el trasiego; activado protocolo, sin daños."}
+{"id_incidencia": "INC00211", "fecha": "2024-08-25 22:36", "reportado_por": "seguridad", "texto": "Contenedor reefer con alarma de temperatura en el patio B19; se reconecta en 18 h."}
+{"id_incidencia": "INC00212", "fecha": "2024-10-04 03:04", "reportado_por": "mantenimiento", "texto": "Colas de camiones en la puerta principal por caída del sistema de citas (7 h)."}
+{"id_incidencia": "INC00213", "fecha": "2025-03-09 12:05", "reportado_por": "seguridad", "texto": "Colas de camiones en la puerta principal por caída del sistema de citas (9 h)."}
+{"id_incidencia": "INC00214", "fecha": "2025-11-22 13:41", "reportado_por": "seguridad", "texto": "Fuga menor detectada en Muelle Ro-Ro durante el trasiego; activado protocolo, sin daños."}
+{"id_incidencia": "INC00215", "fecha": "2024-02-19 06:15", "reportado_por": "mantenimiento", "texto": "Fuga menor detectada en Terminal de GNL durante el trasiego; activado protocolo, sin daños."}
+{"id_incidencia": "INC00216", "fecha": "2025-11-02 06:27", "reportado_por": "mantenimiento", "texto": "Colas de camiones en la puerta principal por caída del sistema de citas (1 h)."}
+{"id_incidencia": "INC00217", "fecha": "2024-11-11 05:00", "reportado_por": "mantenimiento", "texto": "Colas de camiones en la puerta principal por caída del sistema de citas (17 h)."}
+{"id_incidencia": "INC00218", "fecha": "2025-05-29 08:06", "reportado_por": "seguridad", "texto": "Retraso en el atraque de ESC-2025-000106 por vibraciones anómalas; el buque queda en fondeo 18 h."}
+{"id_incidencia": "INC00219", "fecha": "2024-12-10 02:25", "reportado_por": "seguridad", "texto": "Colas de camiones en la puerta principal por caída del sistema de citas (2 h)."}
+{"id_incidencia": "INC00220", "fecha": "2024-10-12 02:30", "reportado_por": "seguridad", "texto": "Fuga menor detectada en Muelle de Minerales durante el trasiego; activado protocolo, sin daños."}
+{"id_incidencia": "INC00221", "fecha": "2024-10-04 18:12", "reportado_por": "seguridad", "texto": "Fuga menor detectada en Terminal de GNL durante el trasiego; activado protocolo, sin daños."}
+{"id_incidencia": "INC00222", "fecha": "2025-09-18 05:59", "reportado_por": "mantenimiento", "texto": "Fuga menor detectada en Muelle Levante durante el trasiego; activado protocolo, sin daños."}
+{"id_incidencia": "INC00223", "fecha": "2025-03-12 17:19", "reportado_por": "capitanía", "texto": "Contenedor reefer con alarma de temperatura en el patio B13; se reconecta en 2 h."}
+{"id_incidencia": "INC00224", "fecha": "2025-01-04 11:38", "reportado_por": "seguridad", "texto": "Fuga menor detectada en Muelle Pesquero durante el trasiego; activado protocolo, sin daños."}
+{"id_incidencia": "INC00225", "fecha": "2025-03-18 18:57", "reportado_por": "seguridad", "texto": "Retraso en el atraque de ESC-2025-000455 por vibraciones anómalas; el buque queda en fondeo 2 h."}
+{"id_incidencia": "INC00226", "fecha": "2024-03-26 03:43", "reportado_por": "capitanía", "texto": "Inspección fitosanitaria retrasa la salida de fruta de la escala ESC-2024-000029."}
+{"id_incidencia": "INC00227", "fecha": "2024-05-12 15:41", "reportado_por": "capitanía", "texto": "Parada de la GRUA-01 durante 13 horas por niebla. Afecta a la escala ESC-2024-000877."}
+{"id_incidencia": "INC00228", "fecha": "2025-12-23 02:37", "reportado_por": "seguridad", "texto": "Parada de la GRUA-02 durante 5 horas por mantenimiento correctivo. Afecta a la escala ESC-2025-001635."}
+{"id_incidencia": "INC00229", "fecha": "2024-01-05 13:40", "reportado_por": "seguridad", "texto": "Rotura de eslinga en Muelle Químico; sin heridos, operación reanudada tras 17 h."}
+{"id_incidencia": "INC00230", "fecha": "2024-06-05 16:45", "reportado_por": "mantenimiento", "texto": "Fuga menor detectada en Terminal de GNL durante el trasiego; activado protocolo, sin daños."}
+{"id_incidencia": "INC00231", "fecha": "2025-04-14 21:26", "reportado_por": "capitanía", "texto": "Rotura de eslinga en Muelle de Inflamables; sin heridos, operación reanudada tras 17 h."}
+{"id_incidencia": "INC00232", "fecha": "2025-06-17 05:35", "reportado_por": "jefe de turno", "texto": "Inspección fitosanitaria retrasa la salida de fruta de la escala ESC-2025-000774."}
+{"id_incidencia": "INC00233", "fecha": "2024-07-23 15:18", "reportado_por": "seguridad", "texto": "Colas de camiones en la puerta principal por caída del sistema de citas (12 h)."}
+{"id_incidencia": "INC00234", "fecha": "2025-12-10 10:18", "reportado_por": "seguridad", "texto": "Retraso en el atraque de ESC-2025-001835 por falta de personal; el buque queda en fondeo 15 h."}
+{"id_incidencia": "INC00235", "fecha": "2024-12-07 00:18", "reportado_por": "mantenimiento", "texto": "Contenedor reefer con alarma de temperatura en el patio B15; se reconecta en 4 h."}
+{"id_incidencia": "INC00236", "fecha": "2025-05-20 19:57", "reportado_por": "mantenimiento", "texto": "Rotura de eslinga en Muelle Sur; sin heridos, operación reanudada tras 7 h."}
+{"id_incidencia": "INC00237", "fecha": "2024-05-14 17:51", "reportado_por": "capitanía", "texto": "Inspección fitosanitaria retrasa la salida de fruta de la escala ESC-2024-000431."}
+{"id_incidencia": "INC00238", "fecha": "2024-08-10 10:09", "reportado_por": "seguridad", "texto": "Inspección fitosanitaria retrasa la salida de fruta de la escala ESC-2024-000380."}
+{"id_incidencia": "INC00239", "fecha": "2024-12-16 00:23", "reportado_por": "mantenimiento", "texto": "Colas de camiones en la puerta principal por caída del sistema de citas (5 h)."}
+{"id_incidencia": "INC00240", "fecha": "2024-01-18 17:25", "reportado_por": "capitanía", "texto": "Retraso en el atraque de ESC-2024-001225 por vibraciones anómalas; el buque queda en fondeo 4 h."}
+{"id_incidencia": "INC00241", "fecha": "2024-02-19 14:15", "reportado_por": "mantenimiento", "texto": "Retraso en el atraque de ESC-2024-000151 por niebla; el buque queda en fondeo 2 h."}
+{"id_incidencia": "INC00242", "fecha": "2025-12-30 10:29", "reportado_por": "jefe de turno", "texto": "Inspección fitosanitaria retrasa la salida de fruta de la escala ESC-2025-000730."}
+{"id_incidencia": "INC00243", "fecha": "2024-04-05 23:14", "reportado_por": "capitanía", "texto": "Inspección fitosanitaria retrasa la salida de fruta de la escala ESC-2024-001889."}
+{"id_incidencia": "INC00244", "fecha": "2024-01-18 15:56", "reportado_por": "mantenimiento", "texto": "Parada de la GRUA-04 durante 7 horas por vibraciones anómalas. Afecta a la escala ESC-2024-000294."}
+{"id_incidencia": "INC00245", "fecha": "2024-05-26 02:54", "reportado_por": "capitanía", "texto": "Inspección fitosanitaria retrasa la salida de fruta de la escala ESC-2024-001665."}
+{"id_incidencia": "INC00246", "fecha": "2024-07-18 12:35", "reportado_por": "jefe de turno", "texto": "Inspección fitosanitaria retrasa la salida de fruta de la escala ESC-2024-000460."}
+{"id_incidencia": "INC00247", "fecha": "2024-12-26 20:01", "reportado_por": "capitanía", "texto": "Retraso en el atraque de ESC-2024-001674 por avería eléctrica; el buque queda en fondeo 13 h."}
+{"id_incidencia": "INC00248", "fecha": "2025-12-18 04:15", "reportado_por": "mantenimiento", "texto": "Retraso en el atraque de ESC-2025-001914 por vibraciones anómalas; el buque queda en fondeo 15 h."}
+{"id_incidencia": "INC00249", "fecha": "2025-09-07 12:06", "reportado_por": "mantenimiento", "texto": "Inspección fitosanitaria retrasa la salida de fruta de la escala ESC-2025-000144."}
+{"id_incidencia": "INC00250", "fecha": "2025-09-06 00:31", "reportado_por": "jefe de turno", "texto": "Fuga menor detectada en Muelle Pesquero durante el trasiego; activado protocolo, sin daños."}
+{"id_incidencia": "INC00251", "fecha": "2024-01-07 17:02", "reportado_por": "capitanía", "texto": "Contenedor reefer con alarma de temperatura en el patio B05; se reconecta en 15 h."}
+{"id_incidencia": "INC00252", "fecha": "2025-09-23 06:38", "reportado_por": "mantenimiento", "texto": "Rotura de eslinga en Muelle Frigorífico; sin heridos, operación reanudada tras 4 h."}
+{"id_incidencia": "INC00253", "fecha": "2025-04-04 18:37", "reportado_por": "jefe de turno", "texto": "Contenedor reefer con alarma de temperatura en el patio B22; se reconecta en 18 h."}
+{"id_incidencia": "INC00254", "fecha": "2024-02-14 04:27", "reportado_por": "seguridad", "texto": "Inspección fitosanitaria retrasa la salida de fruta de la escala ESC-2024-000088."}
+{"id_incidencia": "INC00255", "fecha": "2024-03-19 16:07", "reportado_por": "seguridad", "texto": "Inspección fitosanitaria retrasa la salida de fruta de la escala ESC-2024-001187."}
+{"id_incidencia": "INC00256", "fecha": "2025-03-31 11:02", "reportado_por": "seguridad", "texto": "Fuga menor detectada en Muelle Pesquero durante el trasiego; activado protocolo, sin daños."}
+{"id_incidencia": "INC00257", "fecha": "2025-05-28 22:56", "reportado_por": "jefe de turno", "texto": "Rotura de eslinga en Terminal de GNL; sin heridos, operación reanudada tras 2 h."}
+{"id_incidencia": "INC00258", "fecha": "2024-12-12 23:21", "reportado_por": "capitanía", "texto": "Fuga menor detectada en Muelle Pesquero durante el trasiego; activado protocolo, sin daños."}
+{"id_incidencia": "INC00259", "fecha": "2024-12-15 18:23", "reportado_por": "mantenimiento", "texto": "Fuga menor detectada en Terminal de GNL durante el trasiego; activado protocolo, sin daños."}
+{"id_incidencia": "INC00260", "fecha": "2024-11-22 20:04", "reportado_por": "jefe de turno", "texto": "Contenedor reefer con alarma de temperatura en el patio B23; se reconecta en 11 h."}
+{"id_incidencia": "INC00261", "fecha": "2025-05-05 23:51", "reportado_por": "seguridad", "texto": "Inspección fitosanitaria retrasa la salida de fruta de la escala ESC-2025-000087."}
+{"id_incidencia": "INC00262", "fecha": "2024-11-01 17:09", "reportado_por": "mantenimiento", "texto": "Fuga menor detectada en Muelle Levante durante el trasiego; activado protocolo, sin daños."}
+{"id_incidencia": "INC00263", "fecha": "2024-12-31 00:09", "reportado_por": "mantenimiento", "texto": "Inspección fitosanitaria retrasa la salida de fruta de la escala ESC-2024-001261."}
+{"id_incidencia": "INC00264", "fecha": "2024-09-19 11:38", "reportado_por": "seguridad", "texto": "Contenedor reefer con alarma de temperatura en el patio B23; se reconecta en 4 h."}
+{"id_incidencia": "INC00265", "fecha": "2025-01-14 11:45", "reportado_por": "jefe de turno", "texto": "Fuga menor detectada en Muelle Sur durante el trasiego; activado protocolo, sin daños."}
+{"id_incidencia": "INC00266", "fecha": "2025-11-05 03:26", "reportado_por": "capitanía", "texto": "Fuga menor detectada en Muelle Sur durante el trasiego; activado protocolo, sin daños."}
+{"id_incidencia": "INC00267", "fecha": "2024-03-25 17:15", "reportado_por": "mantenimiento", "texto": "Contenedor reefer con alarma de temperatura en el patio B05; se reconecta en 8 h."}
+{"id_incidencia": "INC00268", "fecha": "2024-04-21 17:57", "reportado_por": "capitanía", "texto": "Colas de camiones en la puerta principal por caída del sistema de citas (1 h)."}
+{"id_incidencia": "INC00269", "fecha": "2024-01-06 05:50", "reportado_por": "mantenimiento", "texto": "Parada de la GRUA-02 durante 3 horas por falta de personal. Afecta a la escala ESC-2024-001287."}
+{"id_incidencia": "INC00270", "fecha": "2024-04-05 22:14", "reportado_por": "mantenimiento", "texto": "Parada de la GRUA-02 durante 11 horas por viento fuerte. Afecta a la escala ESC-2024-001889."}
+{"id_incidencia": "INC00271", "fecha": "2024-10-28 06:48", "reportado_por": "mantenimiento", "texto": "Fuga menor detectada en Muelle Pesquero durante el trasiego; activado protocolo, sin daños."}
+{"id_incidencia": "INC00272", "fecha": "2024-10-14 00:51", "reportado_por": "capitanía", "texto": "Rotura de eslinga en Muelle de Minerales; sin heridos, operación reanudada tras 11 h."}
+{"id_incidencia": "INC00273", "fecha": "2025-11-28 07:47", "reportado_por": "seguridad", "texto": "Contenedor reefer con alarma de temperatura en el patio B12; se reconecta en 2 h."}
+{"id_incidencia": "INC00274", "fecha": "2025-07-31 21:18", "reportado_por": "seguridad", "texto": "Parada de la GRUA-04 durante 3 horas por vibraciones anómalas. Afecta a la escala ESC-2025-001148."}
+{"id_incidencia": "INC00275", "fecha": "2024-09-16 03:31", "reportado_por": "mantenimiento", "texto": "Contenedor reefer con alarma de temperatura en el patio B17; se reconecta en 17 h."}
+{"id_incidencia": "INC00276", "fecha": "2025-11-07 17:11", "reportado_por": "seguridad", "texto": "Colas de camiones en la puerta principal por caída del sistema de citas (15 h)."}
+{"id_incidencia": "INC00277", "fecha": "2024-05-12 06:41", "reportado_por": "mantenimiento", "texto": "Contenedor reefer con alarma de temperatura en el patio B07; se reconecta en 1 h."}
+{"id_incidencia": "INC00278", "fecha": "2024-06-19 01:22", "reportado_por": "jefe de turno", "texto": "Rotura de eslinga en Muelle de Inflamables; sin heridos, operación reanudada tras 14 h."}
+{"id_incidencia": "INC00279", "fecha": "2025-10-27 22:25", "reportado_por": "jefe de turno", "texto": "Rotura de eslinga en Muelle de Minerales; sin heridos, operación reanudada tras 9 h."}
+{"id_incidencia": "INC00280", "fecha": "2024-10-09 15:50", "reportado_por": "seguridad", "texto": "Contenedor reefer con alarma de temperatura en el patio B17; se reconecta en 2 h."}
+{"id_incidencia": "INC00281", "fecha": "2025-04-15 14:10", "reportado_por": "capitanía", "texto": "Retraso en el atraque de ESC-2025-000356 por vibraciones anómalas; el buque queda en fondeo 2 h."}
+{"id_incidencia": "INC00282", "fecha": "2024-11-05 18:09", "reportado_por": "seguridad", "texto": "Rotura de eslinga en Terminal de GNL; sin heridos, operación reanudada tras 3 h."}
+{"id_incidencia": "INC00283", "fecha": "2025-11-15 10:29", "reportado_por": "mantenimiento", "texto": "Retraso en el atraque de ESC-2025-000879 por falta de personal; el buque queda en fondeo 11 h."}
+{"id_incidencia": "INC00284", "fecha": "2025-11-29 16:26", "reportado_por": "mantenimiento", "texto": "Retraso en el atraque de ESC-2025-001378 por falta de personal; el buque queda en fondeo 1 h."}
+{"id_incidencia": "INC00285", "fecha": "2024-01-03 03:56", "reportado_por": "jefe de turno", "texto": "Inspección fitosanitaria retrasa la salida de fruta de la escala ESC-2024-001708."}
+{"id_incidencia": "INC00286", "fecha": "2024-06-03 03:49", "reportado_por": "capitanía", "texto": "Parada de la GRUA-04 durante 16 horas por viento fuerte. Afecta a la escala ESC-2024-000910."}
+{"id_incidencia": "INC00287", "fecha": "2024-05-11 11:01", "reportado_por": "seguridad", "texto": "Colas de camiones en la puerta principal por caída del sistema de citas (4 h)."}
+{"id_incidencia": "INC00288", "fecha": "2024-10-17 01:53", "reportado_por": "capitanía", "texto": "Fuga menor detectada en Muelle Químico durante el trasiego; activado protocolo, sin daños."}
+{"id_incidencia": "INC00289", "fecha": "2025-01-08 15:05", "reportado_por": "capitanía", "texto": "Contenedor reefer con alarma de temperatura en el patio B11; se reconecta en 10 h."}
+{"id_incidencia": "INC00290", "fecha": "2024-09-19 08:46", "reportado_por": "seguridad", "texto": "Colas de camiones en la puerta principal por caída del sistema de citas (17 h)."}
+{"id_incidencia": "INC00291", "fecha": "2025-04-18 09:17", "reportado_por": "mantenimiento", "texto": "Parada de la GRUA-04 durante 4 horas por vibraciones anómalas. Afecta a la escala ESC-2025-001046."}
+{"id_incidencia": "INC00292", "fecha": "2024-05-26 18:17", "reportado_por": "jefe de turno", "texto": "Contenedor reefer con alarma de temperatura en el patio B09; se reconecta en 15 h."}
+{"id_incidencia": "INC00293", "fecha": "2024-07-27 07:42", "reportado_por": "capitanía", "texto": "Inspección fitosanitaria retrasa la salida de fruta de la escala ESC-2024-001475."}
+{"id_incidencia": "INC00294", "fecha": "2025-07-01 14:14", "reportado_por": "jefe de turno", "texto": "Parada de la GRUA-04 durante 18 horas por vibraciones anómalas. Afecta a la escala ESC-2025-001409."}
+{"id_incidencia": "INC00295", "fecha": "2024-03-29 00:50", "reportado_por": "jefe de turno", "texto": "Colas de camiones en la puerta principal por caída del sistema de citas (17 h)."}
+{"id_incidencia": "INC00296", "fecha": "2025-03-30 09:53", "reportado_por": "seguridad", "texto": "Fuga menor detectada en Muelle Químico durante el trasiego; activado protocolo, sin daños."}
+{"id_incidencia": "INC00297", "fecha": "2025-02-04 17:50", "reportado_por": "jefe de turno", "texto": "Contenedor reefer con alarma de temperatura en el patio B13; se reconecta en 14 h."}
+{"id_incidencia": "INC00298", "fecha": "2025-11-07 17:41", "reportado_por": "capitanía", "texto": "Inspección fitosanitaria retrasa la salida de fruta de la escala ESC-2025-001295."}
+{"id_incidencia": "INC00299", "fecha": "2025-03-03 16:46", "reportado_por": "jefe de turno", "texto": "Fuga menor detectada en Muelle Multiusos Norte durante el trasiego; activado protocolo, sin daños."}
+{"id_incidencia": "INC00300", "fecha": "2025-03-19 19:26", "reportado_por": "jefe de turno", "texto": "Inspección fitosanitaria retrasa la salida de fruta de la escala ESC-2025-000317."}
+{"id_incidencia": "INC00301", "fecha": "2024-11-17 05:05", "reportado_por": "jefe de turno", "texto": "Rotura de eslinga en Muelle Ro-Ro; sin heridos, operación reanudada tras 10 h."}
+{"id_incidencia": "INC00302", "fecha": "2025-07-23 22:33", "reportado_por": "jefe de turno", "texto": "Parada de la GRUA-06 durante 4 horas por mantenimiento correctivo. Afecta a la escala ESC-2025-000344."}
+{"id_incidencia": "INC00303", "fecha": "2025-03-03 22:57", "reportado_por": "jefe de turno", "texto": "Colas de camiones en la puerta principal por caída del sistema de citas (1 h)."}
+{"id_incidencia": "INC00304", "fecha": "2024-05-05 12:08", "reportado_por": "jefe de turno", "texto": "Retraso en el atraque de ESC-2024-000568 por fallo del sistema informático; el buque queda en fondeo 3 h."}
+{"id_incidencia": "INC00305", "fecha": "2024-05-01 01:30", "reportado_por": "mantenimiento", "texto": "Colas de camiones en la puerta principal por caída del sistema de citas (12 h)."}
+{"id_incidencia": "INC00306", "fecha": "2025-09-17 01:26", "reportado_por": "seguridad", "texto": "Contenedor reefer con alarma de temperatura en el patio B10; se reconecta en 6 h."}
+{"id_incidencia": "INC00307", "fecha": "2025-05-31 06:08", "reportado_por": "seguridad", "texto": "Colas de camiones en la puerta principal por caída del sistema de citas (5 h)."}
+{"id_incidencia": "INC00308", "fecha": "2024-09-13 12:44", "reportado_por": "capitanía", "texto": "Contenedor reefer con alarma de temperatura en el patio B16; se reconecta en 16 h."}
+{"id_incidencia": "INC00309", "fecha": "2024-09-01 11:42", "reportado_por": "mantenimiento", "texto": "Rotura de eslinga en Pantalán Petrolero; sin heridos, operación reanudada tras 13 h."}
+{"id_incidencia": "INC00310", "fecha": "2025-06-09 16:05", "reportado_por": "jefe de turno", "texto": "Rotura de eslinga en Pantalán Petrolero; sin heridos, operación reanudada tras 6 h."}
+{"id_incidencia": "INC00311", "fecha": "2024-06-24 09:42", "reportado_por": "capitanía", "texto": "Retraso en el atraque de ESC-2024-001060 por fallo del sistema informático; el buque queda en fondeo 14 h."}
+{"id_incidencia": "INC00312", "fecha": "2024-01-18 00:34", "reportado_por": "capitanía", "texto": "Inspección fitosanitaria retrasa la salida de fruta de la escala ESC-2024-000078."}
+{"id_incidencia": "INC00313", "fecha": "2025-11-01 05:38", "reportado_por": "capitanía", "texto": "Colas de camiones en la puerta principal por caída del sistema de citas (13 h)."}
+{"id_incidencia": "INC00314", "fecha": "2025-12-05 07:08", "reportado_por": "seguridad", "texto": "Parada de la GRUA-04 durante 3 horas por vibraciones anómalas. Afecta a la escala ESC-2025-001350."}
+{"id_incidencia": "INC00315", "fecha": "2025-02-27 06:40", "reportado_por": "mantenimiento", "texto": "Retraso en el atraque de ESC-2025-000448 por vibraciones anómalas; el buque queda en fondeo 10 h."}
+{"id_incidencia": "INC00316", "fecha": "2025-02-09 16:56", "reportado_por": "seguridad", "texto": "Parada de la GRUA-01 durante 15 horas por fallo del sistema informático. Afecta a la escala ESC-2025-001246."}
+{"id_incidencia": "INC00317", "fecha": "2025-03-11 16:06", "reportado_por": "mantenimiento", "texto": "Fuga menor detectada en Muelle Sur durante el trasiego; activado protocolo, sin daños."}
+{"id_incidencia": "INC00318", "fecha": "2024-04-07 11:30", "reportado_por": "jefe de turno", "texto": "Parada de la GRUA-04 durante 15 horas por vibraciones anómalas. Afecta a la escala ESC-2024-001085."}
+{"id_incidencia": "INC00319", "fecha": "2024-03-22 20:28", "reportado_por": "seguridad", "texto": "Inspección fitosanitaria retrasa la salida de fruta de la escala ESC-2024-000333."}
+{"id_incidencia": "INC00320", "fecha": "2025-12-19 23:41", "reportado_por": "jefe de turno", "texto": "Colas de camiones en la puerta principal por caída del sistema de citas (3 h)."}
+{"id_incidencia": "INC00321", "fecha": "2024-01-09 11:36", "reportado_por": "capitanía", "texto": "Parada de la GRUA-04 durante 2 horas por mantenimiento correctivo. Afecta a la escala ESC-2024-001243."}
+{"id_incidencia": "INC00322", "fecha": "2024-01-27 06:28", "reportado_por": "mantenimiento", "texto": "Rotura de eslinga en Muelle de Minerales; sin heridos, operación reanudada tras 3 h."}
+{"id_incidencia": "INC00323", "fecha": "2025-03-06 16:29", "reportado_por": "seguridad", "texto": "Parada de la GRUA-03 durante 15 horas por falta de personal. Afecta a la escala ESC-2025-001706."}
+{"id_incidencia": "INC00324", "fecha": "2025-03-04 21:06", "reportado_por": "capitanía", "texto": "Colas de camiones en la puerta principal por caída del sistema de citas (8 h)."}
+{"id_incidencia": "INC00325", "fecha": "2024-01-27 20:08", "reportado_por": "mantenimiento", "texto": "Rotura de eslinga en Muelle de Minerales; sin heridos, operación reanudada tras 17 h."}
+{"id_incidencia": "INC00326", "fecha": "2024-05-03 19:09", "reportado_por": "jefe de turno", "texto": "Parada de la GRUA-04 durante 3 horas por vibraciones anómalas. Afecta a la escala ESC-2024-000227."}
+{"id_incidencia": "INC00327", "fecha": "2025-04-19 00:12", "reportado_por": "mantenimiento", "texto": "Contenedor reefer con alarma de temperatura en el patio B21; se reconecta en 15 h."}
+{"id_incidencia": "INC00328", "fecha": "2024-04-10 22:37", "reportado_por": "seguridad", "texto": "Contenedor reefer con alarma de temperatura en el patio B13; se reconecta en 10 h."}
+{"id_incidencia": "INC00329", "fecha": "2025-10-31 17:05", "reportado_por": "mantenimiento", "texto": "Inspección fitosanitaria retrasa la salida de fruta de la escala ESC-2025-000944."}
+{"id_incidencia": "INC00330", "fecha": "2024-05-19 03:02", "reportado_por": "capitanía", "texto": "Fuga menor detectada en Muelle de Minerales durante el trasiego; activado protocolo, sin daños."}
+{"id_incidencia": "INC00331", "fecha": "2024-11-27 10:46", "reportado_por": "mantenimiento", "texto": "Rotura de eslinga en Muelle de Minerales; sin heridos, operación reanudada tras 1 h."}
+{"id_incidencia": "INC00332", "fecha": "2025-07-05 03:42", "reportado_por": "jefe de turno", "texto": "Retraso en el atraque de ESC-2025-001560 por mantenimiento correctivo; el buque queda en fondeo 10 h."}
+{"id_incidencia": "INC00333", "fecha": "2025-10-06 12:52", "reportado_por": "capitanía", "texto": "Retraso en el atraque de ESC-2025-000751 por fallo del sistema informático; el buque queda en fondeo 14 h."}
+{"id_incidencia": "INC00334", "fecha": "2024-09-13 05:03", "reportado_por": "mantenimiento", "texto": "Fuga menor detectada en Muelle Frigorífico durante el trasiego; activado protocolo, sin daños."}
+{"id_incidencia": "INC00335", "fecha": "2024-06-26 15:30", "reportado_por": "seguridad", "texto": "Inspección fitosanitaria retrasa la salida de fruta de la escala ESC-2024-000797."}
+{"id_incidencia": "INC00336", "fecha": "2024-05-29 17:44", "reportado_por": "seguridad", "texto": "Contenedor reefer con alarma de temperatura en el patio B15; se reconecta en 7 h."}
+{"id_incidencia": "INC00337", "fecha": "2024-05-19 06:07", "reportado_por": "mantenimiento", "texto": "Inspección fitosanitaria retrasa la salida de fruta de la escala ESC-2024-000978."}
+{"id_incidencia": "INC00338", "fecha": "2024-02-02 09:44", "reportado_por": "mantenimiento", "texto": "Parada de la GRUA-06 durante 12 horas por falta de personal. Afecta a la escala ESC-2024-000833."}
+{"id_incidencia": "INC00339", "fecha": "2024-10-21 09:56", "reportado_por": "jefe de turno", "texto": "Retraso en el atraque de ESC-2024-000150 por mantenimiento correctivo; el buque queda en fondeo 7 h."}
+{"id_incidencia": "INC00340", "fecha": "2024-06-28 03:49", "reportado_por": "jefe de turno", "texto": "Colas de camiones en la puerta principal por caída del sistema de citas (2 h)."}
+{"id_incidencia": "INC00341", "fecha": "2025-02-24 19:27", "reportado_por": "jefe de turno", "texto": "Contenedor reefer con alarma de temperatura en el patio B13; se reconecta en 14 h."}
+{"id_incidencia": "INC00342", "fecha": "2025-03-11 21:46", "reportado_por": "mantenimiento", "texto": "Colas de camiones en la puerta principal por caída del sistema de citas (5 h)."}
+{"id_incidencia": "INC00343", "fecha": "2024-05-10 00:41", "reportado_por": "mantenimiento", "texto": "Parada de la GRUA-06 durante 16 horas por avería eléctrica. Afecta a la escala ESC-2024-000570."}
+{"id_incidencia": "INC00344", "fecha": "2025-05-06 23:19", "reportado_por": "jefe de turno", "texto": "Inspección fitosanitaria retrasa la salida de fruta de la escala ESC-2025-001643."}
+{"id_incidencia": "INC00345", "fecha": "2024-05-22 12:38", "reportado_por": "jefe de turno", "texto": "Parada de la GRUA-06 durante 1 horas por mantenimiento correctivo. Afecta a la escala ESC-2024-001483."}
+{"id_incidencia": "INC00346", "fecha": "2024-12-28 13:49", "reportado_por": "jefe de turno", "texto": "Retraso en el atraque de ESC-2024-001662 por avería eléctrica; el buque queda en fondeo 17 h."}
+{"id_incidencia": "INC00347", "fecha": "2024-02-13 07:17", "reportado_por": "seguridad", "texto": "Inspección fitosanitaria retrasa la salida de fruta de la escala ESC-2024-001012."}
+{"id_incidencia": "INC00348", "fecha": "2025-07-14 18:38", "reportado_por": "jefe de turno", "texto": "Parada de la GRUA-06 durante 17 horas por niebla. Afecta a la escala ESC-2025-000280."}
+{"id_incidencia": "INC00349", "fecha": "2025-02-14 10:27", "reportado_por": "mantenimiento", "texto": "Rotura de eslinga en Terminal de GNL; sin heridos, operación reanudada tras 1 h."}
+{"id_incidencia": "INC00350", "fecha": "2024-07-21 03:49", "reportado_por": "jefe de turno", "texto": "Colas de camiones en la puerta principal por caída del sistema de citas (5 h)."}
+{"id_incidencia": "INC00351", "fecha": "2024-12-14 19:48", "reportado_por": "mantenimiento", "texto": "Retraso en el atraque de ESC-2024-000238 por avería eléctrica; el buque queda en fondeo 10 h."}
+{"id_incidencia": "INC00352", "fecha": "2024-04-15 23:47", "reportado_por": "mantenimiento", "texto": "Contenedor reefer con alarma de temperatura en el patio B15; se reconecta en 4 h."}
+{"id_incidencia": "INC00353", "fecha": "2025-09-16 19:56", "reportado_por": "mantenimiento", "texto": "Parada de la GRUA-01 durante 6 horas por mantenimiento correctivo. Afecta a la escala ESC-2025-001660."}
+{"id_incidencia": "INC00354", "fecha": "2024-09-19 09:30", "reportado_por": "mantenimiento", "texto": "Parada de la GRUA-03 durante 2 horas por avería eléctrica. Afecta a la escala ESC-2024-000059."}
+{"id_incidencia": "INC00355", "fecha": "2024-09-16 18:27", "reportado_por": "mantenimiento", "texto": "Parada de la GRUA-04 durante 10 horas por fallo del sistema informático. Afecta a la escala ESC-2024-001898."}
+{"id_incidencia": "INC00356", "fecha": "2024-03-30 17:53", "reportado_por": "capitanía", "texto": "Retraso en el atraque de ESC-2024-001379 por viento fuerte; el buque queda en fondeo 13 h."}
+{"id_incidencia": "INC00357", "fecha": "2025-09-28 06:17", "reportado_por": "capitanía", "texto": "Colas de camiones en la puerta principal por caída del sistema de citas (10 h)."}
+{"id_incidencia": "INC00358", "fecha": "2024-03-20 03:17", "reportado_por": "seguridad", "texto": "Contenedor reefer con alarma de temperatura en el patio B09; se reconecta en 4 h."}
+{"id_incidencia": "INC00359", "fecha": "2024-03-06 21:38", "reportado_por": "capitanía", "texto": "Inspección fitosanitaria retrasa la salida de fruta de la escala ESC-2024-001222."}
+{"id_incidencia": "INC00360", "fecha": "2024-10-21 05:53", "reportado_por": "jefe de turno", "texto": "Contenedor reefer con alarma de temperatura en el patio B22; se reconecta en 16 h."}
+{"id_incidencia": "INC00361", "fecha": "2025-05-02 18:39", "reportado_por": "seguridad", "texto": "Contenedor reefer con alarma de temperatura en el patio B01; se reconecta en 1 h."}
+{"id_incidencia": "INC00362", "fecha": "2025-05-20 12:39", "reportado_por": "seguridad", "texto": "Contenedor reefer con alarma de temperatura en el patio B11; se reconecta en 9 h."}
+{"id_incidencia": "INC00363", "fecha": "2024-03-30 14:50", "reportado_por": "mantenimiento", "texto": "Colas de camiones en la puerta principal por caída del sistema de citas (12 h)."}
+{"id_incidencia": "INC00364", "fecha": "2025-10-09 18:20", "reportado_por": "capitanía", "texto": "Fuga menor detectada en Muelle Frigorífico durante el trasiego; activado protocolo, sin daños."}
+{"id_incidencia": "INC00365", "fecha": "2024-11-11 08:00", "reportado_por": "jefe de turno", "texto": "Inspección fitosanitaria retrasa la salida de fruta de la escala ESC-2024-001458."}
+{"id_incidencia": "INC00366", "fecha": "2025-03-03 19:39", "reportado_por": "mantenimiento", "texto": "Rotura de eslinga en Muelle Pesquero; sin heridos, operación reanudada tras 5 h."}
+{"id_incidencia": "INC00367", "fecha": "2025-09-04 19:16", "reportado_por": "seguridad", "texto": "Contenedor reefer con alarma de temperatura en el patio B19; se reconecta en 9 h."}
+{"id_incidencia": "INC00368", "fecha": "2024-12-23 14:25", "reportado_por": "seguridad", "texto": "Retraso en el atraque de ESC-2024-000100 por huelga de estiba; el buque queda en fondeo 8 h."}
+{"id_incidencia": "INC00369", "fecha": "2024-04-05 05:30", "reportado_por": "mantenimiento", "texto": "Retraso en el atraque de ESC-2024-000140 por falta de personal; el buque queda en fondeo 14 h."}
+{"id_incidencia": "INC00370", "fecha": "2025-07-27 12:43", "reportado_por": "mantenimiento", "texto": "Rotura de eslinga en Muelle Ro-Ro; sin heridos, operación reanudada tras 13 h."}
+{"id_incidencia": "INC00371", "fecha": "2024-06-05 15:36", "reportado_por": "mantenimiento", "texto": "Retraso en el atraque de ESC-2024-000661 por avería eléctrica; el buque queda en fondeo 10 h."}
+{"id_incidencia": "INC00372", "fecha": "2025-08-28 22:18", "reportado_por": "mantenimiento", "texto": "Inspección fitosanitaria retrasa la salida de fruta de la escala ESC-2025-000421."}
+{"id_incidencia": "INC00373", "fecha": "2025-04-25 15:58", "reportado_por": "mantenimiento", "texto": "Colas de camiones en la puerta principal por caída del sistema de citas (6 h)."}
+{"id_incidencia": "INC00374", "fecha": "2025-02-13 06:53", "reportado_por": "seguridad", "texto": "Retraso en el atraque de ESC-2025-000711 por fallo del sistema informático; el buque queda en fondeo 10 h."}
+{"id_incidencia": "INC00375", "fecha": "2025-11-13 18:15", "reportado_por": "jefe de turno", "texto": "Parada de la GRUA-04 durante 11 horas por vibraciones anómalas. Afecta a la escala ESC-2025-001140."}
+{"id_incidencia": "INC00376", "fecha": "2024-02-13 12:25", "reportado_por": "capitanía", "texto": "Retraso en el atraque de ESC-2024-000690 por viento fuerte; el buque queda en fondeo 5 h."}
+{"id_incidencia": "INC00377", "fecha": "2024-03-20 16:16", "reportado_por": "mantenimiento", "texto": "Colas de camiones en la puerta principal por caída del sistema de citas (16 h)."}
+{"id_incidencia": "INC00378", "fecha": "2024-03-12 05:51", "reportado_por": "jefe de turno", "texto": "Inspección fitosanitaria retrasa la salida de fruta de la escala ESC-2024-001827."}
+{"id_incidencia": "INC00379", "fecha": "2024-09-14 20:13", "reportado_por": "seguridad", "texto": "Contenedor reefer con alarma de temperatura en el patio B14; se reconecta en 5 h."}
+{"id_incidencia": "INC00380", "fecha": "2025-09-12 08:35", "reportado_por": "seguridad", "texto": "Inspección fitosanitaria retrasa la salida de fruta de la escala ESC-2025-001182."}
+{"id_incidencia": "INC00381", "fecha": "2024-03-02 08:35", "reportado_por": "mantenimiento", "texto": "Colas de camiones en la puerta principal por caída del sistema de citas (1 h)."}
+{"id_incidencia": "INC00382", "fecha": "2025-12-17 22:23", "reportado_por": "seguridad", "texto": "Retraso en el atraque de ESC-2025-001844 por huelga de estiba; el buque queda en fondeo 10 h."}
+{"id_incidencia": "INC00383", "fecha": "2024-06-22 10:18", "reportado_por": "capitanía", "texto": "Rotura de eslinga en Muelle Multiusos Norte; sin heridos, operación reanudada tras 7 h."}
+{"id_incidencia": "INC00384", "fecha": "2024-11-22 21:54", "reportado_por": "seguridad", "texto": "Retraso en el atraque de ESC-2024-001630 por avería eléctrica; el buque queda en fondeo 4 h."}
+{"id_incidencia": "INC00385", "fecha": "2025-12-08 18:10", "reportado_por": "seguridad", "texto": "Rotura de eslinga en Muelle Frigorífico; sin heridos, operación reanudada tras 7 h."}
+{"id_incidencia": "INC00386", "fecha": "2025-04-25 14:30", "reportado_por": "jefe de turno", "texto": "Parada de la GRUA-02 durante 16 horas por fallo del sistema informático. Afecta a la escala ESC-2025-001056."}
+{"id_incidencia": "INC00387", "fecha": "2024-02-28 07:36", "reportado_por": "seguridad", "texto": "Contenedor reefer con alarma de temperatura en el patio B17; se reconecta en 11 h."}
+{"id_incidencia": "INC00388", "fecha": "2024-07-23 10:18", "reportado_por": "jefe de turno", "texto": "Inspección fitosanitaria retrasa la salida de fruta de la escala ESC-2024-001843."}
+{"id_incidencia": "INC00389", "fecha": "2025-11-24 00:09", "reportado_por": "jefe de turno", "texto": "Inspección fitosanitaria retrasa la salida de fruta de la escala ESC-2025-001519."}
+{"id_incidencia": "INC00390", "fecha": "2024-11-02 13:24", "reportado_por": "seguridad", "texto": "Colas de camiones en la puerta principal por caída del sistema de citas (7 h)."}
+{"id_incidencia": "INC00391", "fecha": "2024-07-22 00:16", "reportado_por": "jefe de turno", "texto": "Parada de la GRUA-06 durante 7 horas por avería eléctrica. Afecta a la escala ESC-2024-001363."}
+{"id_incidencia": "INC00392", "fecha": "2024-08-31 08:38", "reportado_por": "capitanía", "texto": "Fuga menor detectada en Pantalán Petrolero durante el trasiego; activado protocolo, sin daños."}
+{"id_incidencia": "INC00393", "fecha": "2025-06-02 16:25", "reportado_por": "jefe de turno", "texto": "Fuga menor detectada en Muelle Frigorífico durante el trasiego; activado protocolo, sin daños."}
+{"id_incidencia": "INC00394", "fecha": "2025-04-23 16:28", "reportado_por": "seguridad", "texto": "Inspección fitosanitaria retrasa la salida de fruta de la escala ESC-2025-001418."}
+{"id_incidencia": "INC00395", "fecha": "2024-05-10 02:41", "reportado_por": "jefe de turno", "texto": "Fuga menor detectada en Muelle Químico durante el trasiego; activado protocolo, sin daños."}
+{"id_incidencia": "INC00396", "fecha": "2025-04-10 08:26", "reportado_por": "capitanía", "texto": "Retraso en el atraque de ESC-2025-001404 por falta de personal; el buque queda en fondeo 17 h."}
+{"id_incidencia": "INC00397", "fecha": "2025-11-08 05:03", "reportado_por": "mantenimiento", "texto": "Parada de la GRUA-06 durante 12 horas por fallo del sistema informático. Afecta a la escala ESC-2025-001906."}
+{"id_incidencia": "INC00398", "fecha": "2024-03-17 06:58", "reportado_por": "capitanía", "texto": "Contenedor reefer con alarma de temperatura en el patio B10; se reconecta en 4 h."}
+{"id_incidencia": "INC00399", "fecha": "2024-11-24 03:44", "reportado_por": "mantenimiento", "texto": "Inspección fitosanitaria retrasa la salida de fruta de la escala ESC-2024-000032."}
+{"id_incidencia": "INC00400", "fecha": "2025-11-04 13:55", "reportado_por": "mantenimiento", "texto": "Fuga menor detectada en Muelle Químico durante el trasiego; activado protocolo, sin daños."}
+{"id_incidencia": "INC00401", "fecha": "2025-07-03 16:27", "reportado_por": "mantenimiento", "texto": "Rotura de eslinga en Muelle de Inflamables; sin heridos, operación reanudada tras 13 h."}
+{"id_incidencia": "INC00402", "fecha": "2024-09-14 23:23", "reportado_por": "seguridad", "texto": "Parada de la GRUA-06 durante 3 horas por vibraciones anómalas. Afecta a la escala ESC-2024-000053."}
+{"id_incidencia": "INC00403", "fecha": "2025-05-25 11:56", "reportado_por": "capitanía", "texto": "Rotura de eslinga en Muelle Multiusos Norte; sin heridos, operación reanudada tras 16 h."}
+{"id_incidencia": "INC00404", "fecha": "2024-09-15 15:41", "reportado_por": "capitanía", "texto": "Colas de camiones en la puerta principal por caída del sistema de citas (8 h)."}
+{"id_incidencia": "INC00405", "fecha": "2024-01-06 04:09", "reportado_por": "mantenimiento", "texto": "Parada de la GRUA-02 durante 9 horas por niebla. Afecta a la escala ESC-2024-001714."}
+{"id_incidencia": "INC00406", "fecha": "2025-10-07 15:19", "reportado_por": "capitanía", "texto": "Rotura de eslinga en Muelle Ro-Ro; sin heridos, operación reanudada tras 8 h."}
+{"id_incidencia": "INC00407", "fecha": "2025-01-17 15:19", "reportado_por": "capitanía", "texto": "Colas de camiones en la puerta principal por caída del sistema de citas (9 h)."}
+{"id_incidencia": "INC00408", "fecha": "2024-03-25 12:18", "reportado_por": "seguridad", "texto": "Fuga menor detectada en Muelle de Inflamables durante el trasiego; activado protocolo, sin daños."}
+{"id_incidencia": "INC00409", "fecha": "2025-04-09 12:59", "reportado_por": "seguridad", "texto": "Fuga menor detectada en Muelle Frigorífico durante el trasiego; activado protocolo, sin daños."}
+{"id_incidencia": "INC00410", "fecha": "2025-09-27 21:50", "reportado_por": "capitanía", "texto": "Inspección fitosanitaria retrasa la salida de fruta de la escala ESC-2025-000454."}
+{"id_incidencia": "INC00411", "fecha": "2025-10-04 15:41", "reportado_por": "seguridad", "texto": "Contenedor reefer con alarma de temperatura en el patio B03; se reconecta en 17 h."}
+{"id_incidencia": "INC00412", "fecha": "2025-01-20 12:55", "reportado_por": "mantenimiento", "texto": "Contenedor reefer con alarma de temperatura en el patio B20; se reconecta en 6 h."}
+{"id_incidencia": "INC00413", "fecha": "2024-02-24 15:47", "reportado_por": "jefe de turno", "texto": "Parada de la GRUA-02 durante 7 horas por huelga de estiba. Afecta a la escala ESC-2024-001383."}
+{"id_incidencia": "INC00414", "fecha": "2024-04-03 10:48", "reportado_por": "capitanía", "texto": "Retraso en el atraque de ESC-2024-000509 por avería eléctrica; el buque queda en fondeo 2 h."}
+{"id_incidencia": "INC00415", "fecha": "2024-05-17 20:49", "reportado_por": "jefe de turno", "texto": "Colas de camiones en la puerta principal por caída del sistema de citas (14 h)."}
+{"id_incidencia": "INC00416", "fecha": "2024-07-02 06:28", "reportado_por": "seguridad", "texto": "Parada de la GRUA-04 durante 2 horas por fallo del sistema informático. Afecta a la escala ESC-2024-001077."}
+{"id_incidencia": "INC00417", "fecha": "2025-10-27 21:45", "reportado_por": "capitanía", "texto": "Fuga menor detectada en Muelle Frigorífico durante el trasiego; activado protocolo, sin daños."}
+{"id_incidencia": "INC00418", "fecha": "2024-07-20 16:51", "reportado_por": "capitanía", "texto": "Colas de camiones en la puerta principal por caída del sistema de citas (17 h)."}
+{"id_incidencia": "INC00419", "fecha": "2025-09-11 20:35", "reportado_por": "seguridad", "texto": "Colas de camiones en la puerta principal por caída del sistema de citas (1 h)."}
+{"id_incidencia": "INC00420", "fecha": "2024-04-14 22:48", "reportado_por": "mantenimiento", "texto": "Contenedor reefer con alarma de temperatura en el patio B08; se reconecta en 8 h."}
+{"id_incidencia": "INC00421", "fecha": "2025-05-24 16:29", "reportado_por": "mantenimiento", "texto": "Parada de la GRUA-02 durante 8 horas por huelga de estiba. Afecta a la escala ESC-2025-000821."}
+{"id_incidencia": "INC00422", "fecha": "2024-11-24 19:17", "reportado_por": "seguridad", "texto": "Colas de camiones en la puerta principal por caída del sistema de citas (6 h)."}
+{"id_incidencia": "INC00423", "fecha": "2024-02-07 22:25", "reportado_por": "mantenimiento", "texto": "Parada de la GRUA-05 durante 12 horas por avería eléctrica. Afecta a la escala ESC-2024-000712."}
+{"id_incidencia": "INC00424", "fecha": "2024-04-15 05:20", "reportado_por": "mantenimiento", "texto": "Inspección fitosanitaria retrasa la salida de fruta de la escala ESC-2024-001461."}
+{"id_incidencia": "INC00425", "fecha": "2024-04-28 11:12", "reportado_por": "capitanía", "texto": "Inspección fitosanitaria retrasa la salida de fruta de la escala ESC-2024-000945."}
+{"id_incidencia": "INC00426", "fecha": "2025-05-05 08:37", "reportado_por": "capitanía", "texto": "Contenedor reefer con alarma de temperatura en el patio B14; se reconecta en 16 h."}
+{"id_incidencia": "INC00427", "fecha": "2025-07-24 01:33", "reportado_por": "mantenimiento", "texto": "Parada de la GRUA-01 durante 17 horas por mantenimiento correctivo. Afecta a la escala ESC-2025-000344."}
+{"id_incidencia": "INC00428", "fecha": "2024-11-29 08:39", "reportado_por": "capitanía", "texto": "Parada de la GRUA-06 durante 1 horas por mantenimiento correctivo. Afecta a la escala ESC-2024-000657."}
+{"id_incidencia": "INC00429", "fecha": "2025-10-11 13:40", "reportado_por": "jefe de turno", "texto": "Fuga menor detectada en Muelle de Cruceros durante el trasiego; activado protocolo, sin daños."}
+{"id_incidencia": "INC00430", "fecha": "2025-06-03 21:23", "reportado_por": "capitanía", "texto": "Retraso en el atraque de ESC-2025-001608 por avería eléctrica; el buque queda en fondeo 4 h."}
+{"id_incidencia": "INC00431", "fecha": "2024-03-01 21:44", "reportado_por": "jefe de turno", "texto": "Colas de camiones en la puerta principal por caída del sistema de citas (3 h)."}
+{"id_incidencia": "INC00432", "fecha": "2024-10-01 06:36", "reportado_por": "mantenimiento", "texto": "Rotura de eslinga en Muelle Multiusos Norte; sin heridos, operación reanudada tras 2 h."}
+{"id_incidencia": "INC00433", "fecha": "2024-06-19 14:05", "reportado_por": "seguridad", "texto": "Colas de camiones en la puerta principal por caída del sistema de citas (16 h)."}
+{"id_incidencia": "INC00434", "fecha": "2025-12-29 02:23", "reportado_por": "capitanía", "texto": "Parada de la GRUA-01 durante 16 horas por niebla. Afecta a la escala ESC-2025-001819."}
+{"id_incidencia": "INC00435", "fecha": "2025-02-26 15:11", "reportado_por": "mantenimiento", "texto": "Contenedor reefer con alarma de temperatura en el patio B16; se reconecta en 16 h."}
+{"id_incidencia": "INC00436", "fecha": "2025-09-28 12:26", "reportado_por": "jefe de turno", "texto": "Inspección fitosanitaria retrasa la salida de fruta de la escala ESC-2025-001247."}
+{"id_incidencia": "INC00437", "fecha": "2024-10-30 03:38", "reportado_por": "mantenimiento", "texto": "Colas de camiones en la puerta principal por caída del sistema de citas (1 h)."}
+{"id_incidencia": "INC00438", "fecha": "2025-02-23 20:09", "reportado_por": "mantenimiento", "texto": "Colas de camiones en la puerta principal por caída del sistema de citas (13 h)."}
+{"id_incidencia": "INC00439", "fecha": "2025-11-06 22:59", "reportado_por": "seguridad", "texto": "Rotura de eslinga en Muelle Frigorífico; sin heridos, operación reanudada tras 10 h."}
+{"id_incidencia": "INC00440", "fecha": "2024-10-14 04:14", "reportado_por": "jefe de turno", "texto": "Retraso en el atraque de ESC-2024-001284 por avería eléctrica; el buque queda en fondeo 18 h."}
+{"id_incidencia": "INC00441", "fecha": "2024-09-24 18:50", "reportado_por": "mantenimiento", "texto": "Parada de la GRUA-05 durante 11 horas por niebla. Afecta a la escala ESC-2024-001149."}
+{"id_incidencia": "INC00442", "fecha": "2025-02-09 11:41", "reportado_por": "capitanía", "texto": "Rotura de eslinga en Muelle Sur; sin heridos, operación reanudada tras 4 h."}
+{"id_incidencia": "INC00443", "fecha": "2024-08-12 15:34", "reportado_por": "mantenimiento", "texto": "Retraso en el atraque de ESC-2024-001503 por viento fuerte; el buque queda en fondeo 5 h."}
+{"id_incidencia": "INC00444", "fecha": "2024-09-18 08:31", "reportado_por": "seguridad", "texto": "Rotura de eslinga en Pantalán Petrolero; sin heridos, operación reanudada tras 17 h."}
+{"id_incidencia": "INC00445", "fecha": "2024-04-30 04:12", "reportado_por": "mantenimiento", "texto": "Fuga menor detectada en Muelle Multiusos Norte durante el trasiego; activado protocolo, sin daños."}
+{"id_incidencia": "INC00446", "fecha": "2025-07-05 22:13", "reportado_por": "seguridad", "texto": "Colas de camiones en la puerta principal por caída del sistema de citas (10 h)."}
+{"id_incidencia": "INC00447", "fecha": "2024-05-26 05:40", "reportado_por": "seguridad", "texto": "Parada de la GRUA-02 durante 14 horas por falta de personal. Afecta a la escala ESC-2024-000694."}
+{"id_incidencia": "INC00448", "fecha": "2025-07-31 21:58", "reportado_por": "capitanía", "texto": "Rotura de eslinga en Muelle de Minerales; sin heridos, operación reanudada tras 9 h."}
+{"id_incidencia": "INC00449", "fecha": "2024-11-24 19:17", "reportado_por": "mantenimiento", "texto": "Fuga menor detectada en Muelle Frigorífico durante el trasiego; activado protocolo, sin daños."}
+{"id_incidencia": "INC00450", "fecha": "2024-02-20 17:00", "reportado_por": "seguridad", "texto": "Rotura de eslinga en Muelle Sur; sin heridos, operación reanudada tras 17 h."}

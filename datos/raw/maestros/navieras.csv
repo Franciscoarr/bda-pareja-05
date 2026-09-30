@@ -1,0 +1,41 @@
+id_naviera,nombre,pais,flota
+NAV001,Iberia Naviera,Portugal,116
+NAV002,Nordsee Carriers,Marruecos,103
+NAV003,Canarias Carriers,Noruega,99
+NAV004,Canarias Maritime,Grecia,3
+NAV005,Bética Shipping,Portugal,39
+NAV006,Iberia Maritime,España,107
+NAV007,Guadiana Naviera,Grecia,53
+NAV008,Mare Nostrum Naviera,Italia,106
+NAV009,Gran Sol Carriers,Portugal,95
+NAV010,Levante Shipping,Dinamarca,39
+NAV011,Alborán Lines,Dinamarca,6
+NAV012,Poniente Naviera,Noruega,57
+NAV013,Tinto Maritime,Noruega,114
+NAV014,Estrecho Carriers,Noruega,53
+NAV015,Estrecho Naviera,Marruecos,75
+NAV016,Guadiana Carriers,España,76
+NAV017,Nordsee Lines,España,93
+NAV018,Estrecho Shipping,Marruecos,63
+NAV019,Blue Wave Maritime,Grecia,111
+NAV020,Mare Nostrum Carriers,Marruecos,88
+NAV021,Costa de la Luz Carriers,Noruega,106
+NAV022,Gran Sol Maritime,Grecia,40
+NAV023,Mare Nostrum Shipping,España,22
+NAV024,Bética Maritime,Noruega,49
+NAV025,Delta Naviera,Noruega,62
+NAV026,Estrecho Maritime,Marruecos,74
+NAV027,Odiel Naviera,Italia,61
+NAV028,Cabo Verde Maritime,Portugal,86
+NAV029,Mare Nostrum Maritime,Italia,15
+NAV030,Delta Maritime,Países Bajos,60
+NAV031,Atlántica Shipping,España,60
+NAV032,Tinto Carriers,Grecia,34
+NAV033,Iberia Carriers,España,99
+NAV034,Azores Naviera,Italia,22
+NAV035,Atlántica Naviera,Noruega,91
+NAV036,Blue Wave Carriers,Grecia,63
+NAV037,Canarias Lines,Dinamarca,13
+NAV038,Cabo Verde Lines,Países Bajos,103
+NAV039,Canarias Naviera,Marruecos,52
+NAV040,Gran Sol Shipping,España,109

@@ -10,7 +10,8 @@ ENV DEBIAN_FRONTEND=noninteractive TZ=Europe/Madrid
 # Utilidades de diagnóstico (ping, curl, procps) y dependencias de Python del proyecto
 RUN apt-get update \
  && apt-get install -y --no-install-recommends curl iputils-ping procps tzdata \
- && rm -rf /var/lib/apt/lists/*
+ && rm -rf /var/lib/apt/lists/* \
+ && ln -sf /usr/bin/python3 /usr/bin/python
 
 COPY requirements.txt /tmp/requirements.txt
 RUN pip3 install --no-cache-dir --break-system-packages -r /tmp/requirements.txt 2>/dev/null \
